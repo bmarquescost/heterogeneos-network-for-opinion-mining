@@ -1,0 +1,183 @@
+,
+,
+receive unecessary notifications,0.22464731
+,
+scroll;top,0.7595384;0.6403321
+take,0.3940282
+top bar,0.23691486
+,
+fix,0.5009981
+,
+,
+twitter;refresh;timeline,0.6222895;0.6511715;0.67068934
+fix,0.44216445
+uninstall;install;tweet;re-tweet,0.54019916;0.51698434;0.5486519;0.59877646
+sleek,0.4197694
+,
+watch videos;updated;twitter,0.36788118;0.6644918;0.66339505
+install;base;installation error,0.6041097;0.53464377;0.36228547
+check;tweet,0.48626906;0.56601673
+,
+,
+find,0.4652957
+access Twitter,0.40892667
+MacBook,0.5638071
+Videos;load;fix,0.46509764;0.4839516;0.48971903
+twitter,0.57897675
+,
+FIX;LASTEST UPDATE PLEASEEEEE,0.54277295;0.14736865
+locks keyboard;screen;restart,0.23054215;0.51222765;0.54309934
+reinstall;fixed,0.48953226;0.4817518
+view my own timeline,0.122344084
+account;follow;account;susspended,0.6273552;0.5671279;0.6273552;0.47657746
+,
+Timeline keeps jumping;top;hours;tweets get lost,0.12882566;0.51116914;0.5638777;0.26828086
+Twitter ignores;file;issue,0.33211115;0.7791794;0.6138337
+,
+,
+list;appear,0.6923266;0.66200066
+add;function;get back backup code;give;stars,0.51760006;0.4541553;0.08350034;0.53026956;0.499032
+update trends;showing;tweets,0.30557096;0.42306876;0.67800504
+,
+ttx;styles,0.53431636;0.6181272
+subs,0.4399337
+,
+downloaded;open;account,0.56395006;0.60609525;0.68745434
+typed my account;pressed enter,0.26892775;0.5146325
+error;logging,0.60294974;0.62189275
+,
+cant open my Account,0.081220195
+download,0.6044714
+,
+updates;update,0.4658257;0.4826426
+update,0.58743036
+get push notifications;cant watch;videos,0.23395401;0.17456876;0.68291867
+video,0.6147892
+,
+Pause;music;view;GIF,0.611742;0.56654507;0.6555394;0.7156361
+refreshes content;disregards;scrolling;viewing;tweet;automatically;warning,0.29494154;0.4896462;0.51305217;0.5224759;0.5462279;0.45414358;0.4380333
+set;banner,0.650065;0.7275495
+see;photos;tweet;top,0.46994397;0.699889;0.66827637;0.41451642
+fix,0.52204967
+switch;taking;photo;video,0.51845044;0.56316185;0.61945313;0.5832884
+samsung;s4,0.41265506;0.41579646
+,
+cant see;photos,0.2472176;0.7211833
+updates;vague descriptions;updates,0.5456491;0.3472114;0.5456491
+quick camera fix,0.11627357
+add filtets w/;pics;lates;pls fix,0.19376954;0.7309792;0.4902303;0.2314739
+twitter,0.57897675
+,
+notifications take,0.41698542
+,
+,
+updated twitter;logged;account,0.42498946;0.74601597;0.7266263
+,
+push notification;locked,0.17677537;0.40499437
+Talking;phone,0.40459996;0.44231102
+pay RM1;receive validation code;phone,0.27697846;0.30976358;0.43505344
+follow;code,0.5578696;0.62443805
+Keep,0.49753276
+post;photos;browse;see,0.67075294;0.7488794;0.6706177;0.51445
+discovery;activity tabs;update,0.5139136;0.24293979;0.5576905
+keyboard glitches,0.3756818
+restart;phone;keyboard;minimize,0.6541306;0.43601674;0.68067473;0.5902356
+tweet,0.6193747
+material design,0.22276482
+,
+,
+,
+Twitter,0.43557653
+freezes;keeps updated,0.53434217;0.35835433
+,
+change my header;bio,0.23768915;0.6932115
+updating profile;notification bar,0.48480344;0.5476637
+restart;phone,0.6961325;0.52323455
+layout,0.49735817
+switch,0.43509758
+reach;my tweets;my profile page,0.6652996;0.2699876;0.20528853
+accessible;notifications panel,0.4940795;0.430372
+FONT;PLEASE PUT BACK;OLD FONT,0.5827914;0.14202902;0.22833198
+SMALL FONT,0.21869953
+,
+,
+update,0.6172713
+Search;refreshing,0.46402097;0.496779
+someones tweets;profile;gaps between;tweets;load,0.18792431;0.63069737;0.3798483;0.70892656;0.5346242
+updates,0.42847246
+apps,0.5047846
+takes;load videos;see;post;hashtag,0.49092394;0.25548375;0.44895172;0.5751254;0.5900765
+start;tweet;press;tweet,0.5163716;0.5990821;0.5523526;0.5990821
+Twitter;adjustments,0.39398453;0.5744442
+,
+Microphone acces,0.25175473
+,
+update,0.64814574
+interact;subjects,0.4615217;0.45920047
+see any recent tweets;go;peoples profiles,0.15317266;0.48358506;0.41736603
+,
+Locked,0.44247246
+,
+,
+,
+Enjoy;year,0.39586452;0.44242972
+Twitter,0.43493298
+feed,0.5815021
+hit;twitter,0.40393206;0.6463179
+,
+highlight;showing,0.54555213;0.4809317
+Facebook,0.4273525
+see tweets;order;feed,0.31749105;0.5724604;0.69504863
+share;update,0.48998627;0.5351415
+,
+,
+keeps;uninstall;install,0.3975733;0.3915406;0.47145912
+fix,0.47102687
+button;twitter pleasee,0.45826247;0.47515357
+flow;Twitter;activity section,0.43130997;0.54051125;0.26035526
+,
+photo service,0.33972543
+Shortener;URL,0.54106694;0.6329987
+isss;verification code;verification code,0.42306155;0.33761436;0.33761436
+access;twitter,0.6556271;0.66049623
+update fixed,0.27489635
+keep,0.4692452
+Keep discover;activity,0.24216303;0.5497294
+update;photo show;making retweets,0.49132195;0.33490473;0.28173432
+lists tab;displays;lists,0.4411018;0.66134983;0.66415495
+complaints,0.60517704
+,
+tweets showing;timeline,0.5089717;0.6616914
+pictures;load;4G;Wifi,0.49665427;0.47454494;0.38011152;0.52252734
+,
+,
+,
+missing,0.47139168
+symbols,0.70402664
+,
+,
+Stalk;avoid;life,0.51364;0.5439477;0.42879146
+receive;DM,0.70977885;0.51581496
+,
+accept;followers requests;check;feed;followerss requests;followers request,0.4755599;0.2486955;0.6202256;0.62764853;0.2663794;0.2486955
+requests,0.6348138
+,
+,
+,
+moan,0.42997563
+fix;bugging,0.45347917;0.53084314
+see,0.45862275
+deactivate;mistake,0.52537346;0.45011824
+MY TLIST;MY TWEETS,0.21671502;0.21671502
+SEE TWEETS;MY FOLLOWINGS,0.460929;0.34391946
+cant retweet,0.26159158
+,
+download,0.57003224
+my notification bar,0.19801737
+information;fix,0.5939305;0.5081595
+updating,0.53584766
+twitter;open,0.66321236;0.60241836
+hangs;phone;focus;issue,0.55928737;0.42560604;0.5429818;0.43386883
+,
+save;profile fix;rate;stars,0.6575698;0.5226118;0.5973452;0.52276564
+,

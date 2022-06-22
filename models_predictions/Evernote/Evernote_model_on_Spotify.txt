@@ -1,0 +1,227 @@
+selection;press,0.40640762;0.40610728
+fix,0.56531507
+,
+update;search bar,0.585392;0.36815953
+fix,0.48935074
+premium,0.43448955
+respond;keep reporting,0.5313911;0.35495645
+restart;phone,0.6157076;0.4434514
+pay,0.4156722
+purchase;premium;spoil,0.4018996;0.47842276;0.43439382
+find;songs,0.42080736;0.64417106
+stars,0.42854157
+Quality,0.4188584
+Get;emails;unsubscribe link,0.37647882;0.637739;0.35019073
+updates;keeps shutting;open,0.50318754;0.19926111;0.44158983
+play Spotify;play;fix,0.14176437;0.3765161;0.4588427
+,
+selection;music;find,0.4474858;0.42942286;0.50688946
+,
+Loading;music,0.47745824;0.47393695
+apps;turn;junk,0.47583568;0.4307263;0.5336434
+log;facebook;message appears;log;support,0.6602294;0.6669528;0.5422892;0.6602294;0.5752469
+log,0.6570066
+logging;logs,0.5395581;0.56654364
+,
+spotify,0.44131708
+pay,0.4733109
+Spotify,0.51636624
+customize;listen offline;play lists;music;Save,0.534919;0.24804108;0.19760054;0.35783282;0.4915181
+,
+audio;music,0.60171014;0.4303471
+,
+fix;search bar keeps disappearing,0.559698;0.16020775
+listen,0.5629963
+make;playlist,0.37633514;0.5973646
+offline;Internet;listen;music,0.50426406;0.47766906;0.5376176;0.5293342
+freezes;kicks,0.43584517;0.45221937
+music;updates,0.39688256;0.53862673
+downloaded;music streaming;Spotify,0.45026943;0.12699592;0.4401413
+,
+play songs;Shuffle play,0.24164318;0.3328139
+,
+skip,0.34902054
+desktop,0.33605185
+browser version,0.34496436
+,
+gradeing,0.618733
+Stops;sec playback;sudden;all tracks,0.5744811;0.25005025;0.48840627;0.21301638
+clear;cache;memory,0.52158874;0.6050988;0.61608875
+Spotify;updates,0.50145406;0.63262826
+screen touches lag,0.18303913
+cancelling subscription,0.4997532
+,
+play;music;free,0.39226767;0.508679;0.40848178
+,
+,
+,
+,
+internet;SoundCloud,0.39352852;0.4233856
+load,0.57555205
+stations,0.45191455
+lock screen;skip button;play/ pause button,0.20389192;0.18868929;0.06574925
+play;music,0.61616606;0.5757679
+login,0.6075852
+my email;username,0.23163371;0.7383248
+,
+set;account;email account;allready taken,0.59447235;0.71920353;0.5949681;0.46189967
+Sort;out,0.62814975;0.44397616
+ads;play,0.4543523;0.40168086
+restart;phone;listen;music,0.58360153;0.47359285;0.6652886;0.610209
+count;choose;song;listen,0.35882655;0.40382257;0.4982281;0.51455224
+open;menu;song;slider,0.41379195;0.5606336;0.4979373;0.47369245
+Spotify;display;lock screen;unlock;phone;change songs,0.419165;0.55117947;0.3161352;0.5681364;0.4343402;0.34927517
+workouts,0.5941501
+,
+,
+Remove;shuffle,0.5156966;0.6006076
+,
+open;open,0.36300522;0.36300522
+put;email;didnt accept,0.5298997;0.81101793;0.18459229
+buy premium pack,0.11683755
+,
+downloads,0.45367566
+listen;music,0.60821223;0.568455
+,
+sound quality;diversity;music,0.2780116;0.5725707;0.5333272
+update;bottom;shows;album artwork,0.5387513;0.5944037;0.6060925;0.23154272
+skip;songs;change songs manually,0.6265845;0.7035948;0.24384716
+fix,0.52204967
+,
+WiFi connection;bars;load;online songs,0.24636106;0.469539;0.5779958;0.22529712
+fix,0.52204967
+Disapointed,0.47366393
+,
+Spotify,0.45444098
+internet connection;connected;internet,0.29504016;0.56284434;0.543176
+runs,0.47114432
+soundcloud,0.48798156
+make;bill;account,0.5620706;0.5860981;0.6718283
+credit card,0.45729935
+answer,0.43078256
+updates;crashes,0.59160846;0.5087401
+listen;Update,0.53998977;0.63429767
+updated;running,0.40337586;0.33776677
+pay,0.5963162
+,
+artists,0.49848974
+music,0.4155205
+,
+shufle,0.41149268
+,
+cast,0.57681084
+access millions;songs;creating;playlist,0.36693576;0.6733544;0.5912046;0.6454897
+choose;music;playing,0.46580523;0.49408978;0.47699204
+,
+Spotify;features,0.40996304;0.4973107
+,
+Chromecast support,0.22584945
+wear support,0.20404975
+,
+support,0.364213
+,
+wear support,0.30597466
+add;timer;timer,0.47301865;0.5374034;0.5374034
+live;listen;music;timer;added,0.40314227;0.5380799;0.48913604;0.51399195;0.3898884
+add;feature search,0.5373849;0.35189787
+load;Wi-Fi,0.47203013;0.40928936
+play lists created;cancel,0.20704308;0.62717617
+,
+un-downloaded;downloaded play lists,0.5676841;0.14435501
+,
+songs,0.48799542
+update;freezes;open,0.49402314;0.44361368;0.38849288
+freeze;Spotify,0.35116196;0.3498749
+,
+search feature;take;load results,0.23878802;0.42811695;0.24434976
+freeze;Galaxy S5,0.56476593;0.19220321
+random playlist,0.15854509
+songs;MariKKKopa;hateful;ranting,0.5525222;0.47874215;0.42710006;0.5945421
+follower;playlists;artist;REMOVED,0.44527864;0.68608475;0.46656188;0.578677
+clicked;song;plays;song,0.56991166;0.6583727;0.5678196;0.6583727
+crate ringtones,0.4599521
+,
+play,0.46796533
+restart,0.61978155
+sound quality,0.29446617
+updating;songs;artists,0.5487593;0.61215687;0.5058315
+favorite artist,0.17911838
+add;tempo/speed;listen;speeds,0.37879795;0.47465146;0.44573188;0.38143978
+search bar,0.350638
+,
+spotify,0.5769959
+search;issue resolved,0.61945355;0.18842942
+,
+bits;Premium;restart,0.55316204;0.5049743;0.6613828
+Spotify,0.3977078
+shuffle playing,0.25288072
+boaring,0.59279585
+fast,0.4088703
+skips,0.47068763
+display;audio,0.5253495;0.6262421
+,
+,
+pick;song;listen;shuffle,0.47540492;0.42208624;0.44648787;0.47523382
+find;albums;listen;80s music,0.48313826;0.6555122;0.5980461;0.262163
+spotify,0.6153269
+listen;music,0.5954052;0.56684864
+update;see;album art;local files,0.60644084;0.48394656;0.33271328;0.45524803
+,
+download;fix;downloader;fix,0.50051546;0.4435732;0.5041491;0.4435732
+Wheres;search button,0.6253101;0.46233842
+,
+fix,0.4736273
+offline;listen;music;network data connection,0.49492648;0.56333435;0.5664564;0.1471251
+WiFi,0.5320381
+checked;settings;enable online,0.43459868;0.5571117;0.14273882
+login;offline,0.50699055;0.40564924
+cancel;Spotify membership,0.5157107;0.28363386
+reinstalling,0.51894623
+pay,0.5440012
+,
+updated;lolipop;start,0.5396838;0.47658598;0.49671862
+search songs,0.5229565
+Galaxy S6 Edge,0.10024781
+accept;credentials,0.6625431;0.77250993
+listen;music;Internet,0.47430894;0.4213186;0.39655253
+buying,0.37923527
+get all;favorite songs from;favorite artists,0.3690357;0.3528792;0.44719386
+open,0.43992648
+fix;downgrade;update,0.4488021;0.659869;0.6733098
+search;add new songs;fix,0.5299629;0.1610433;0.5258561
+tidal;beats,0.44267574;0.44779536
+,
+,
+,
+Bluetooth;song,0.46052775;0.4808581
+sounds,0.4922725
+maps;screen;spotify stops;exits,0.58488005;0.4226716;0.21561567;0.48238447
+fix;paying,0.45935255;0.50438976
+lyrics;please,0.5589341;0.48991507
+,
+someumes freezes;phone,0.16492648;0.43960556
+spotify;running,0.6094449;0.45184377
+search;dont find,0.56387246;0.2391655
+download music;card;internal storage,0.23782979;0.45950547;0.15599853
+lock;music;transferred off;card;iTunes,0.5199162;0.5393004;0.28950307;0.5433741;0.43995422
+fix;Spotify,0.45546412;0.49253467
+listen;song,0.41837546;0.5198355
+,
+,
+linked,0.45120448
+search menu;disappears,0.33198392;0.5607242
+wifi;connected;interent,0.544579;0.38818362;0.37807497
+fix;data;download;songs,0.46857616;0.6610479;0.5991654;0.6699236
+shuffle;random music pops;ads,0.4931735;0.12536977;0.5351943
+,
+uninstall button,0.21286161
+Spotify,0.60854834
+advertisement;Playlist,0.4194972;0.6348273
+Spotify,0.5953988
+listen;music,0.474201;0.4847557
+,
+browse;connection,0.5501736;0.55649215
+connected;wifi;offline mode;off,0.4685698;0.56517637;0.26503342;0.4703189
+,
+cancel;fixed,0.5029919;0.46986285
+premium,0.42608097

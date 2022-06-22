@@ -1,0 +1,2994 @@
+$T$ app to conect all
+Good
+-1
+Good $T$ to conect all
+app
+-1
+Good app $T$ conect all
+to
+-1
+Good app to $T$ all
+conect
+0
+Good app to conect $T$
+all
+-1
+$T$ not working in my phone moto g 1st gen 
+Calling feature
+1
+$T$ feature not working in my phone moto g 1st gen
+Calling
+0
+Calling $T$ not working in my phone moto g 1st gen
+feature
+1
+Calling feature $T$ working in my phone moto g 1st gen
+not
+-1
+Calling feature not $T$ in my phone moto g 1st gen
+working
+-1
+Calling feature not working $T$ my phone moto g 1st gen
+in
+-1
+Calling feature not working in $T$ phone moto g 1st gen
+my
+-1
+Calling feature not working in my $T$ moto g 1st gen
+phone
+-1
+Calling feature not working in my phone $T$ g 1st gen
+moto
+-1
+Calling feature not working in my phone moto $T$ 1st gen
+g
+-1
+Calling feature not working in my phone moto g $T$ gen
+1st
+-1
+Calling feature not working in my phone moto g 1st $T$
+gen
+-1
+$T$
+Keeps me connected
+1
+$T$ me connected
+Keeps
+0
+Keeps $T$ connected
+me
+1
+Keeps me $T$
+connected
+1
+$T$ whats app but could not get voice calling option
+Updated
+0
+Updated whats app but could not $T$ 
+get voice calling option
+1
+Updated $T$ app but could not get voice calling option
+whats
+-1
+Updated whats $T$ but could not get voice calling option
+app
+-1
+Updated whats app $T$ could not get voice calling option
+but
+-1
+Updated whats app but $T$ not get voice calling option
+could
+-1
+Updated whats app but could $T$ get voice calling option
+not
+-1
+Updated whats app but could not $T$ voice calling option
+get
+0
+Updated whats app but could not get $T$ calling option
+voice
+1
+Updated whats app but could not get voice $T$ option
+calling
+1
+Updated whats app but could not get voice calling $T$
+option
+1
+Many of my friends are able to $T$ facility 
+make a voice call
+1
+$T$ of my friends are able to make a voice call facility
+Many
+-1
+Many $T$ my friends are able to make a voice call facility
+of
+-1
+Many of $T$ friends are able to make a voice call facility
+my
+-1
+Many of my $T$ are able to make a voice call facility
+friends
+-1
+Many of my friends $T$ able to make a voice call facility
+are
+-1
+Many of my friends are $T$ to make a voice call facility
+able
+-1
+Many of my friends are able $T$ make a voice call facility
+to
+-1
+Many of my friends are able to $T$ a voice call facility
+make
+0
+Many of my friends are able to make $T$ voice call facility
+a
+1
+Many of my friends are able to make a $T$ call facility
+voice
+1
+Many of my friends are able to make a voice $T$ facility
+call
+1
+Many of my friends are able to make a voice call $T$
+facility
+-1
+Is this true that the $T$ of whatsapp will provide us video calling n likes & comments features
+updated version
+1
+$T$ this true that the updated version of whatsapp will provide us video calling n likes & comments features
+Is
+-1
+Is $T$ true that the updated version of whatsapp will provide us video calling n likes & comments features
+this
+-1
+Is this $T$ that the updated version of whatsapp will provide us video calling n likes & comments features
+true
+-1
+Is this true $T$ the updated version of whatsapp will provide us video calling n likes & comments features
+that
+-1
+Is this true that $T$ updated version of whatsapp will provide us video calling n likes & comments features
+the
+-1
+Is this true that the $T$ version of whatsapp will provide us video calling n likes & comments features
+updated
+0
+Is this true that the updated $T$ of whatsapp will provide us video calling n likes & comments features
+version
+1
+Is this true that the updated version of whatsapp will provide us $T$ n likes & comments features
+video calling
+1
+Is this true that the updated version $T$ whatsapp will provide us video calling n likes & comments features
+of
+-1
+Is this true that the updated version of $T$ will provide us video calling n likes & comments features
+whatsapp
+-1
+Is this true that the updated version of whatsapp $T$ provide us video calling n likes & comments features
+will
+-1
+Is this true that the updated version of whatsapp will $T$ us video calling n likes & comments features
+provide
+-1
+Is this true that the updated version of whatsapp will provide $T$ video calling n likes & comments features
+us
+-1
+Is this true that the updated version of whatsapp will provide us $T$ calling n likes & comments features
+video
+0
+Is this true that the updated version of whatsapp will provide us video $T$ n likes & comments features
+calling
+1
+Is this true that the updated version of whatsapp will provide us video calling $T$ likes & comments features
+n
+-1
+Is this true that the updated version of whatsapp will provide us video calling n $T$ & comments features
+likes
+0
+Is this true that the updated version of whatsapp will provide us video calling n likes & $T$ features
+comments
+0
+Is this true that the updated version of whatsapp will provide us video calling n likes & comments $T$
+features
+-1
+No $T$,tried every possible method,but no luck
+calling option
+1
+$T$ calling option , tried every possible method , but no luck
+No
+-1
+No $T$ option , tried every possible method , but no luck
+calling
+0
+No calling $T$ , tried every possible method , but no luck
+option
+1
+No calling option , $T$ every possible method , but no luck
+tried
+-1
+No calling option , tried $T$ possible method , but no luck
+every
+-1
+No calling option , tried every $T$ method , but no luck
+possible
+-1
+No calling option , tried every possible $T$ , but no luck
+method
+-1
+No calling option , tried every possible method , $T$ no luck
+but
+-1
+No calling option , tried every possible method , but $T$ luck
+no
+-1
+No calling option , tried every possible method , but no $T$
+luck
+-1
+So many bugs force crashes and $T$ 
+messages cannot be sent
+1
+$T$ many bugs force crashes and messages can not be sent
+So
+-1
+So $T$ bugs force crashes and messages can not be sent
+many
+-1
+So many $T$ force crashes and messages can not be sent
+bugs
+-1
+So many bugs $T$ crashes and messages can not be sent
+force
+-1
+So many bugs force $T$ and messages can not be sent
+crashes
+-1
+So many bugs force crashes $T$ messages can not be sent
+and
+-1
+So many bugs force crashes and $T$ can not be sent
+messages
+0
+So many bugs force crashes and messages $T$ not be sent
+can
+1
+So many bugs force crashes and messages can $T$ be sent
+not
+1
+So many bugs force crashes and messages can not $T$ sent
+be
+1
+So many bugs force crashes and messages can not be $T$
+sent
+1
+I can not $T$ nor change my dp what is going on
+update my status
+1
+$T$ can not update my status nor change my dp what is going on
+I
+-1
+I $T$ not update my status nor change my dp what is going on
+can
+-1
+I can $T$ update my status nor change my dp what is going on
+not
+-1
+I can not $T$ my status nor change my dp what is going on
+update
+0
+I can not update $T$ status nor change my dp what is going on
+my
+1
+I can not update my $T$ nor change my dp what is going on
+status
+1
+I can not update my status $T$ change my dp what is going on
+nor
+-1
+I can not update my status nor $T$ my dp what is going on
+change
+-1
+I can not update my status nor change $T$ dp what is going on
+my
+-1
+I can not update my status nor change my $T$ what is going on
+dp
+-1
+I can not update my status nor change my dp $T$ is going on
+what
+-1
+I can not update my status nor change my dp what $T$ going on
+is
+-1
+I can not update my status nor change my dp what is $T$ on
+going
+-1
+I can not update my status nor change my dp what is going $T$
+on
+-1
+$T$ perhaps
+Animated gifs
+1
+$T$ gifs perhaps
+Animated
+0
+Animated $T$ perhaps
+gifs
+1
+Animated gifs $T$
+perhaps
+-1
+$T$ would be 5* material, hopefully thats next!
+Video calling
+1
+$T$ calling would be 5* material , hopefully thats next !
+Video
+0
+Video $T$ would be 5* material , hopefully thats next !
+calling
+1
+Video calling $T$ be 5* material , hopefully thats next !
+would
+-1
+Video calling would $T$ 5* material , hopefully thats next !
+be
+-1
+Video calling would be $T$ material , hopefully thats next !
+5*
+-1
+Video calling would be 5* $T$ , hopefully thats next !
+material
+-1
+Video calling would be 5* material , $T$ thats next !
+hopefully
+-1
+Video calling would be 5* material , hopefully $T$ next !
+thats
+-1
+Video calling would be 5* material , hopefully thats $T$ !
+next
+-1
+$T$ to be login & log out feature for security reason or password option
+Need
+-1
+Need $T$ be login & log out feature for security reason or password option
+to
+-1
+Need to $T$ login & log out feature for security reason or password option
+be
+-1
+Need to be $T$ & log out feature for security reason or password option
+login
+0
+Need to be login & $T$ feature for security reason or password option
+log out
+1
+Need to be login & $T$ out feature for security reason or password option
+log
+0
+Need to be login & log $T$ feature for security reason or password option
+out
+1
+Need to be login & log out $T$ for security reason or password option
+feature
+-1
+Need to be login & log out feature $T$ security reason or password option
+for
+-1
+Need to be login & log out feature for $T$ reason or password option
+security
+-1
+Need to be login & log out feature for security $T$ or password option
+reason
+-1
+Need to be login & log out feature for security reason $T$ password option
+or
+-1
+Need to be login & log out feature for security reason or $T$ option
+password
+0
+Need to be login & log out feature for security reason or password $T$
+option
+-1
+$T$ takes too long to respond
+Sometimes
+-1
+Sometimes $T$ too long to respond
+takes
+-1
+Sometimes takes $T$ long to respond
+too
+-1
+Sometimes takes too $T$ to respond
+long
+-1
+Sometimes takes too long $T$ respond
+to
+-1
+Sometimes takes too long to $T$
+respond
+0
+$T$ Improve Stickers
+Please
+-1
+Please $T$ Stickers
+Improve
+-1
+Please Improve $T$
+Stickers
+0
+$T$
+Conect to all friends
+1
+$T$ to all friends
+Conect
+0
+Conect $T$ all friends
+to
+1
+Conect to $T$ friends
+all
+1
+Conect to all $T$
+friends
+1
+$T$ have it texting is free
+I
+-1
+I $T$ it texting is free
+have
+-1
+I have $T$ texting is free
+it
+-1
+I have it $T$ is free
+texting
+0
+I have it texting $T$ free
+is
+-1
+I have it texting is $T$
+free
+-1
+Its to good to $T$
+connect with friends
+1
+$T$ to good to connect with friends
+Its
+-1
+Its $T$ good to connect with friends
+to
+-1
+Its to $T$ to connect with friends
+good
+-1
+Its to good $T$ connect with friends
+to
+-1
+Its to good to $T$ with friends
+connect
+0
+Its to good to connect $T$ friends
+with
+1
+Its to good to connect with $T$
+friends
+1
+$T$ have so much fun with my dude n hos sending voice messages songs videos n pictures
+I
+-1
+I have so $T$ fun with my dude n hos sending voice messages songs videos n pictures
+much
+-1
+I have so much $T$ with my dude n hos sending voice messages songs videos n pictures
+fun
+-1
+I have so much fun with my $T$ n hos sending voice messages songs videos n pictures
+dude
+-1
+I have so much fun with my dude $T$ hos sending voice messages songs videos n pictures
+n
+-1
+I have so much fun with my dude n $T$ sending voice messages songs videos n pictures
+hos
+-1
+I have so much fun with my dude n hos $T$ voice messages songs videos n pictures
+sending
+0
+I have so much fun with my dude n hos sending $T$ messages songs videos n pictures
+voice
+1
+I have so much fun with my dude n hos sending voice $T$ songs videos n pictures
+messages
+1
+I have so much fun with my dude n hos sending voice messages $T$ videos n pictures
+songs
+1
+I have so much fun with my dude n hos sending voice messages songs $T$ n pictures
+videos
+1
+I have so much fun with my dude n hos sending voice messages songs videos $T$ pictures
+n
+-1
+I have so much fun with my dude n hos sending voice messages songs videos n $T$
+pictures
+1
+The only downside for me ( using a sony experia E1) is that my $T$ not my sd card n theres no option to change it like there wae with the older version on my blackberry 
+media saves to my phone
+1
+$T$ only downside for me ( using a sony experia E1 ) is that my media saves to my phone not my sd card n theres no option to change it like there wae with the older version on my blackberry
+The
+-1
+The $T$ downside for me ( using a sony experia E1 ) is that my media saves to my phone not my sd card n theres no option to change it like there wae with the older version on my blackberry
+only
+-1
+The only $T$ for me ( using a sony experia E1 ) is that my media saves to my phone not my sd card n theres no option to change it like there wae with the older version on my blackberry
+downside
+-1
+The only downside $T$ me ( using a sony experia E1 ) is that my media saves to my phone not my sd card n theres no option to change it like there wae with the older version on my blackberry
+for
+-1
+The only downside for $T$ ( using a sony experia E1 ) is that my media saves to my phone not my sd card n theres no option to change it like there wae with the older version on my blackberry
+me
+-1
+The only downside for me ( $T$ a sony experia E1 ) is that my media saves to my phone not my sd card n theres no option to change it like there wae with the older version on my blackberry
+using
+-1
+The only downside for me ( using $T$ sony experia E1 ) is that my media saves to my phone not my sd card n theres no option to change it like there wae with the older version on my blackberry
+a
+-1
+The only downside for me ( using a $T$ experia E1 ) is that my media saves to my phone not my sd card n theres no option to change it like there wae with the older version on my blackberry
+sony
+-1
+The only downside for me ( using a sony $T$ E1 ) is that my media saves to my phone not my sd card n theres no option to change it like there wae with the older version on my blackberry
+experia
+-1
+The only downside for me ( using a sony experia $T$ ) is that my media saves to my phone not my sd card n theres no option to change it like there wae with the older version on my blackberry
+E1
+-1
+The only downside for me ( using a sony experia E1 ) $T$ that my media saves to my phone not my sd card n theres no option to change it like there wae with the older version on my blackberry
+is
+-1
+The only downside for me ( using a sony experia E1 ) is $T$ my media saves to my phone not my sd card n theres no option to change it like there wae with the older version on my blackberry
+that
+-1
+The only downside for me ( using a sony experia E1 ) is that $T$ media saves to my phone not my sd card n theres no option to change it like there wae with the older version on my blackberry
+my
+-1
+The only downside for me ( using a sony experia E1 ) is that my $T$ saves to my phone not my sd card n theres no option to change it like there wae with the older version on my blackberry
+media
+0
+The only downside for me ( using a sony experia E1 ) is that my media $T$ to my phone not my sd card n theres no option to change it like there wae with the older version on my blackberry
+saves
+1
+The only downside for me ( using a sony experia E1 ) is that my media saves $T$ my phone not my sd card n theres no option to change it like there wae with the older version on my blackberry
+to
+1
+The only downside for me ( using a sony experia E1 ) is that my media saves to $T$ phone not my sd card n theres no option to change it like there wae with the older version on my blackberry
+my
+1
+The only downside for me ( using a sony experia E1 ) is that my media saves to my $T$ not my sd card n theres no option to change it like there wae with the older version on my blackberry
+phone
+1
+The only downside for me ( using a sony experia E1 ) is that my media saves to my phone $T$ my sd card n theres no option to change it like there wae with the older version on my blackberry
+not
+-1
+The only downside for me ( using a sony experia E1 ) is that my media saves to my phone not $T$ sd card n theres no option to change it like there wae with the older version on my blackberry
+my
+-1
+The only downside for me ( using a sony experia E1 ) is that my media saves to my phone not my $T$ card n theres no option to change it like there wae with the older version on my blackberry
+sd
+-1
+The only downside for me ( using a sony experia E1 ) is that my media saves to my phone not my sd $T$ n theres no option to change it like there wae with the older version on my blackberry
+card
+-1
+The only downside for me ( using a sony experia E1 ) is that my media saves to my phone not my sd card $T$ theres no option to change it like there wae with the older version on my blackberry
+n
+-1
+The only downside for me ( using a sony experia E1 ) is that my media saves to my phone not my sd card n $T$ no option to change it like there wae with the older version on my blackberry
+theres
+-1
+The only downside for me ( using a sony experia E1 ) is that my media saves to my phone not my sd card n theres $T$ option to change it like there wae with the older version on my blackberry
+no
+-1
+The only downside for me ( using a sony experia E1 ) is that my media saves to my phone not my sd card n theres no $T$ to change it like there wae with the older version on my blackberry
+option
+-1
+The only downside for me ( using a sony experia E1 ) is that my media saves to my phone not my sd card n theres no option $T$ change it like there wae with the older version on my blackberry
+to
+-1
+The only downside for me ( using a sony experia E1 ) is that my media saves to my phone not my sd card n theres no option to $T$ it like there wae with the older version on my blackberry
+change
+-1
+The only downside for me ( using a sony experia E1 ) is that my media saves to my phone not my sd card n theres no option to change $T$ like there wae with the older version on my blackberry
+it
+-1
+The only downside for me ( using a sony experia E1 ) is that my media saves to my phone not my sd card n theres no option to change it $T$ there wae with the older version on my blackberry
+like
+-1
+The only downside for me ( using a sony experia E1 ) is that my media saves to my phone not my sd card n theres no option to change it like $T$ wae with the older version on my blackberry
+there
+-1
+The only downside for me ( using a sony experia E1 ) is that my media saves to my phone not my sd card n theres no option to change it like there $T$ with the older version on my blackberry
+wae
+-1
+The only downside for me ( using a sony experia E1 ) is that my media saves to my phone not my sd card n theres no option to change it like there wae $T$ the older version on my blackberry
+with
+-1
+The only downside for me ( using a sony experia E1 ) is that my media saves to my phone not my sd card n theres no option to change it like there wae with $T$ older version on my blackberry
+the
+-1
+The only downside for me ( using a sony experia E1 ) is that my media saves to my phone not my sd card n theres no option to change it like there wae with the $T$ version on my blackberry
+older
+-1
+The only downside for me ( using a sony experia E1 ) is that my media saves to my phone not my sd card n theres no option to change it like there wae with the older $T$ on my blackberry
+version
+-1
+The only downside for me ( using a sony experia E1 ) is that my media saves to my phone not my sd card n theres no option to change it like there wae with the older version $T$ my blackberry
+on
+-1
+The only downside for me ( using a sony experia E1 ) is that my media saves to my phone not my sd card n theres no option to change it like there wae with the older version on $T$ blackberry
+my
+-1
+The only downside for me ( using a sony experia E1 ) is that my media saves to my phone not my sd card n theres no option to change it like there wae with the older version on my $T$
+blackberry
+-1
+$T$ required issues have been resolved Really looking forward to have whatsapp calling working
+All
+-1
+All $T$ issues have been resolved Really looking forward to have whatsapp calling working
+required
+-1
+All required $T$ have been resolved Really looking forward to have whatsapp calling working
+issues
+-1
+All required issues $T$ been resolved Really looking forward to have whatsapp calling working
+have
+-1
+All required issues have $T$ resolved Really looking forward to have whatsapp calling working
+been
+-1
+All required issues have been $T$ Really looking forward to have whatsapp calling working
+resolved
+-1
+All required issues have been resolved $T$ looking forward to have whatsapp calling working
+Really
+-1
+All required issues have been resolved Really $T$ forward to have whatsapp calling working
+looking
+-1
+All required issues have been resolved Really looking $T$ to have whatsapp calling working
+forward
+-1
+All required issues have been resolved Really looking forward $T$ have whatsapp calling working
+to
+-1
+All required issues have been resolved Really looking forward to $T$ whatsapp calling working
+have
+-1
+All required issues have been resolved Really looking forward to have $T$ calling working
+whatsapp
+-1
+All required issues have been resolved Really looking forward to have whatsapp $T$ working
+calling
+0
+All required issues have been resolved Really looking forward to have whatsapp calling $T$
+working
+-1
+$T$ much time consuming specially when the time of installation
+Very
+-1
+Very $T$ time consuming specially when the time of installation
+much
+-1
+Very much $T$ consuming specially when the time of installation
+time
+-1
+Very much time $T$ specially when the time of installation
+consuming
+-1
+Very much time consuming $T$ when the time of installation
+specially
+-1
+Very much time consuming specially $T$ the time of installation
+when
+-1
+Very much time consuming specially when $T$ time of installation
+the
+-1
+Very much time consuming specially when the $T$ of installation
+time
+-1
+Very much time consuming specially when the time $T$ installation
+of
+-1
+Very much time consuming specially when the time of $T$
+installation
+0
+$T$ stupid 15 20 apps got updated last night and whatsapp kept prompting not sufficient space wtf is that
+Its
+-1
+Its $T$ 15 20 apps got updated last night and whatsapp kept prompting not sufficient space wtf is that
+stupid
+-1
+Its stupid $T$ 20 apps got updated last night and whatsapp kept prompting not sufficient space wtf is that
+15
+-1
+Its stupid 15 $T$ apps got updated last night and whatsapp kept prompting not sufficient space wtf is that
+20
+-1
+Its stupid 15 20 $T$ got updated last night and whatsapp kept prompting not sufficient space wtf is that
+apps
+-1
+Its stupid 15 20 apps $T$ updated last night and whatsapp kept prompting not sufficient space wtf is that
+got
+-1
+Its stupid 15 20 apps got $T$ last night and whatsapp kept prompting not sufficient space wtf is that
+updated
+0
+Its stupid   15 20 apps got updated last night and whatsapp kept $T$    wtf is that   
+prompting not sufficient space
+1
+Its stupid 15 20 apps got updated $T$ night and whatsapp kept prompting not sufficient space wtf is that
+last
+-1
+Its stupid 15 20 apps got updated last $T$ and whatsapp kept prompting not sufficient space wtf is that
+night
+-1
+Its stupid 15 20 apps got updated last night $T$ whatsapp kept prompting not sufficient space wtf is that
+and
+-1
+Its stupid 15 20 apps got updated last night and $T$ kept prompting not sufficient space wtf is that
+whatsapp
+-1
+Its stupid 15 20 apps got updated last night and whatsapp $T$ prompting not sufficient space wtf is that
+kept
+-1
+Its stupid 15 20 apps got updated last night and whatsapp kept $T$ not sufficient space wtf is that
+prompting
+0
+Its stupid 15 20 apps got updated last night and whatsapp kept prompting $T$ sufficient space wtf is that
+not
+1
+Its stupid 15 20 apps got updated last night and whatsapp kept prompting not $T$ space wtf is that
+sufficient
+1
+Its stupid 15 20 apps got updated last night and whatsapp kept prompting not sufficient $T$ wtf is that
+space
+1
+Its stupid 15 20 apps got updated last night and whatsapp kept prompting not sufficient space $T$ is that
+wtf
+-1
+Its stupid 15 20 apps got updated last night and whatsapp kept prompting not sufficient space wtf $T$ that
+is
+-1
+Its stupid 15 20 apps got updated last night and whatsapp kept prompting not sufficient space wtf is $T$
+that
+-1
+$T$ whatsapp suddenly doesnt respond and a box I think that saysits not responding wan na close it appears
+My
+-1
+My $T$ suddenly doesnt respond and a box I think that saysits not responding wan na close it appears
+whatsapp
+-1
+My whatsapp $T$ doesnt respond and a box I think that saysits not responding wan na close it appears
+suddenly
+-1
+My whatsapp suddenly $T$ respond and a box I think that saysits not responding wan na close it appears
+doesnt
+-1
+My whatsapp suddenly doesnt $T$ and a box I think that saysits not responding wan na close it appears
+respond
+0
+My whatsapp suddenly doesnt respond $T$ a box I think that saysits not responding wan na close it appears
+and
+-1
+My whatsapp suddenly doesnt respond and $T$ box I think that saysits not responding wan na close it appears
+a
+-1
+My whatsapp suddenly doesnt respond and a $T$ I think that saysits not responding wan na close it appears
+box
+-1
+My whatsapp suddenly doesnt respond and a box $T$ think that saysits not responding wan na close it appears
+I
+-1
+My whatsapp suddenly doesnt respond and a box I $T$ that saysits not responding wan na close it appears
+think
+-1
+My whatsapp suddenly doesnt respond and a box I think $T$ saysits not responding wan na close it appears
+that
+-1
+My whatsapp suddenly doesnt respond and a box I think that $T$ not responding wan na close it appears
+saysits
+-1
+My whatsapp suddenly doesnt respond and a box I think that saysits $T$ responding wan na close it appears
+not
+-1
+My whatsapp suddenly doesnt respond and a box I think that saysits not $T$ wan na close it appears
+responding
+-1
+My whatsapp suddenly doesnt respond and a box I think that saysits not responding $T$ na close it appears
+wan
+-1
+My whatsapp suddenly doesnt respond and a box I think that saysits not responding wan $T$ close it appears
+na
+-1
+My whatsapp suddenly doesnt respond and a box I think that saysits not responding wan na $T$ it appears
+close
+-1
+My whatsapp suddenly doesnt respond and a box I think that saysits not responding wan na close $T$ appears
+it
+-1
+My whatsapp suddenly doesnt respond and a box I think that saysits not responding wan na close it $T$
+appears
+-1
+So I select yes and all my $T$ is gone and im kicked out of my chat grps 
+chat history
+1
+$T$ I select yes and all my chat history is gone and im kicked out of my chat grps
+So
+-1
+So $T$ select yes and all my chat history is gone and im kicked out of my chat grps
+I
+-1
+So I $T$ yes and all my chat history is gone and im kicked out of my chat grps
+select
+-1
+So I select $T$ and all my chat history is gone and im kicked out of my chat grps
+yes
+-1
+So I select yes $T$ all my chat history is gone and im kicked out of my chat grps
+and
+-1
+So I select yes and $T$ my chat history is gone and im kicked out of my chat grps
+all
+-1
+So I select yes and all $T$ chat history is gone and im kicked out of my chat grps
+my
+-1
+So I select yes and all my $T$ history is gone and im kicked out of my chat grps
+chat
+0
+So I select yes and all my chat $T$ is gone and im kicked out of my chat grps
+history
+1
+So I select yes and all my chat history is gone and im kicked out of my $T$ 
+chat grps
+1
+So I select yes and all my chat history $T$ gone and im kicked out of my chat grps
+is
+-1
+So I select yes and all my chat history is $T$ and im kicked out of my chat grps
+gone
+-1
+So I select yes and all my chat history is gone $T$ im kicked out of my chat grps
+and
+-1
+So I select yes and all my chat history is gone and $T$ kicked out of my chat grps
+im
+-1
+So I select yes and all my chat history is gone and im $T$ out of my chat grps
+kicked
+-1
+So I select yes and all my chat history is gone and im kicked $T$ of my chat grps
+out
+-1
+So I select yes and all my chat history is gone and im kicked out $T$ my chat grps
+of
+-1
+So I select yes and all my chat history is gone and im kicked out of $T$ chat grps
+my
+-1
+So I select yes and all my chat history is gone and im kicked out of my $T$ grps
+chat
+0
+So I select yes and all my chat history is gone and im kicked out of my chat $T$
+grps
+1
+$T$ nic whataapp now update
+So
+-1
+So $T$ whataapp now update
+nic
+-1
+So nic $T$ now update
+whataapp
+-1
+So nic whataapp $T$ update
+now
+-1
+So nic whataapp now $T$
+update
+0
+The $T$ 
+name always appeared as numbers
+1
+$T$ name always appeared as numbers
+The
+-1
+The $T$ always appeared as numbers
+name
+0
+The name $T$ appeared as numbers
+always
+1
+The name always $T$ as numbers
+appeared
+1
+The name always appeared $T$ numbers
+as
+1
+The name always appeared as $T$
+numbers
+1
+$T$ to uninstall then reinstall
+Must
+-1
+Must $T$ uninstall then reinstall
+to
+-1
+Must to $T$ then reinstall
+uninstall
+0
+Must to uninstall $T$ reinstall
+then
+-1
+Must to uninstall then $T$
+reinstall
+0
+$T$ aapp fast chatting
+Awesome
+-1
+Awesome $T$ fast chatting
+aapp
+-1
+Awesome aapp $T$ chatting
+fast
+-1
+Awesome aapp fast $T$
+chatting
+0
+I would have rated 5 if there would have been a $T$   
+send option to multiple users
+1
+$T$ would have rated 5 if there would have been a send option to multiple users
+I
+-1
+I $T$ have rated 5 if there would have been a send option to multiple users
+would
+-1
+I would $T$ rated 5 if there would have been a send option to multiple users
+have
+-1
+I would have $T$ 5 if there would have been a send option to multiple users
+rated
+-1
+I would have rated $T$ if there would have been a send option to multiple users
+5
+-1
+I would have rated 5 $T$ there would have been a send option to multiple users
+if
+-1
+I would have rated 5 if $T$ would have been a send option to multiple users
+there
+-1
+I would have rated 5 if there $T$ have been a send option to multiple users
+would
+-1
+I would have rated 5 if there would $T$ been a send option to multiple users
+have
+-1
+I would have rated 5 if there would have $T$ a send option to multiple users
+been
+-1
+I would have rated 5 if there would have been $T$ send option to multiple users
+a
+-1
+I would have rated 5 if there would have been a $T$ option to multiple users
+send
+0
+I would have rated 5 if there would have been a send $T$ to multiple users
+option
+1
+I would have rated 5 if there would have been a send option $T$ multiple users
+to
+1
+I would have rated 5 if there would have been a send option to $T$ users
+multiple
+1
+I would have rated 5 if there would have been a send option to multiple $T$
+users
+1
+Voice messaging giving problems for some strange reason when you $T$ 
+access voice message screen
+1
+$T$ messaging giving problems for some strange reason when you access voice message screen
+Voice
+-1
+Voice $T$ giving problems for some strange reason when you access voice message screen
+messaging
+-1
+Voice messaging $T$ problems for some strange reason when you access voice message screen
+giving
+-1
+Voice messaging giving $T$ for some strange reason when you access voice message screen
+problems
+-1
+Voice messaging giving problems $T$ some strange reason when you access voice message screen
+for
+-1
+Voice messaging giving problems for $T$ strange reason when you access voice message screen
+some
+-1
+Voice messaging giving problems for some $T$ reason when you access voice message screen
+strange
+-1
+Voice messaging giving problems for some strange $T$ when you access voice message screen
+reason
+-1
+Voice messaging giving problems for some strange reason $T$ you access voice message screen
+when
+-1
+Voice messaging giving problems for some strange reason when $T$ access voice message screen
+you
+-1
+Voice messaging giving problems for some strange reason when you $T$ voice message screen
+access
+0
+Voice messaging giving problems for some strange reason when you access $T$ message screen
+voice
+1
+Voice messaging giving problems for some strange reason when you access voice $T$ screen
+message
+1
+Voice messaging giving problems for some strange reason when you access voice message $T$
+screen
+1
+$T$ giving problems for some strange reason when you access voice message screen 
+Voice messaging
+1
+turns black and the volume is soo low that you have to listen to it on the ear piece and not loud speaker pls pls fix $T$ and still same problem pls fix
+sending updates
+1
+$T$ black and the volume is soo low that you have to listen to it on the ear piece and not loud speaker pls pls fix sending updates and still same problem pls fix
+turns
+-1
+turns $T$ and the volume is soo low that you have to listen to it on the ear piece and not loud speaker pls pls fix sending updates and still same problem pls fix
+black
+-1
+turns black $T$ the volume is soo low that you have to listen to it on the ear piece and not loud speaker pls pls fix sending updates and still same problem pls fix
+and
+-1
+turns black and $T$ volume is soo low that you have to listen to it on the ear piece and not loud speaker pls pls fix sending updates and still same problem pls fix
+the
+-1
+turns black and the $T$ is soo low that you have to listen to it on the ear piece and not loud speaker pls pls fix sending updates and still same problem pls fix
+volume
+-1
+turns black and the volume $T$ soo low that you have to listen to it on the ear piece and not loud speaker pls pls fix sending updates and still same problem pls fix
+is
+-1
+turns black and the volume is $T$ low that you have to listen to it on the ear piece and not loud speaker pls pls fix sending updates and still same problem pls fix
+soo
+-1
+turns black and the volume is soo $T$ that you have to listen to it on the ear piece and not loud speaker pls pls fix sending updates and still same problem pls fix
+low
+-1
+turns black and the volume is soo low $T$ you have to listen to it on the ear piece and not loud speaker pls pls fix sending updates and still same problem pls fix
+that
+-1
+turns black and the volume is soo low that $T$ have to listen to it on the ear piece and not loud speaker pls pls fix sending updates and still same problem pls fix
+you
+-1
+turns black and the volume is soo low that you $T$ to listen to it on the ear piece and not loud speaker pls pls fix sending updates and still same problem pls fix
+have
+-1
+turns black and the volume is soo low that you have $T$ listen to it on the ear piece and not loud speaker pls pls fix sending updates and still same problem pls fix
+to
+-1
+turns black and the volume is soo low that you have to $T$ to it on the ear piece and not loud speaker pls pls fix sending updates and still same problem pls fix
+listen
+-1
+turns black and the volume is soo low that you have to listen $T$ it on the ear piece and not loud speaker pls pls fix sending updates and still same problem pls fix
+to
+-1
+turns black and the volume is soo low that you have to listen to $T$ on the ear piece and not loud speaker pls pls fix sending updates and still same problem pls fix
+it
+-1
+turns black and the volume is soo low that you have to listen to it $T$ the ear piece and not loud speaker pls pls fix sending updates and still same problem pls fix
+on
+-1
+turns black and the volume is soo low that you have to listen to it on $T$ ear piece and not loud speaker pls pls fix sending updates and still same problem pls fix
+the
+-1
+turns black and the volume is soo low that you have to listen to it on the $T$ piece and not loud speaker pls pls fix sending updates and still same problem pls fix
+ear
+-1
+turns black and the volume is soo low that you have to listen to it on the ear $T$ and not loud speaker pls pls fix sending updates and still same problem pls fix
+piece
+-1
+turns black and the volume is soo low that you have to listen to it on the ear piece $T$ not loud speaker pls pls fix sending updates and still same problem pls fix
+and
+-1
+turns black and the volume is soo low that you have to listen to it on the ear piece and $T$ loud speaker pls pls fix sending updates and still same problem pls fix
+not
+-1
+turns black and the volume is soo low that you have to listen to it on the ear piece and not $T$ speaker pls pls fix sending updates and still same problem pls fix
+loud
+-1
+turns black and the volume is soo low that you have to listen to it on the ear piece and not loud $T$ pls pls fix sending updates and still same problem pls fix
+speaker
+-1
+turns black and the volume is soo low that you have to listen to it on the ear piece and not loud speaker $T$ pls fix sending updates and still same problem pls fix
+pls
+-1
+turns black and the volume is soo low that you have to listen to it on the ear piece and not loud speaker pls $T$ fix sending updates and still same problem pls fix
+pls
+-1
+turns black and the volume is soo low that you have to listen to it on the ear piece and not loud speaker pls pls $T$ sending updates and still same problem pls fix
+fix
+-1
+turns black and the volume is soo low that you have to listen to it on the ear piece and not loud speaker pls pls fix $T$ updates and still same problem pls fix
+sending
+0
+turns black and the volume is soo low that you have to listen to it on the ear piece and not loud speaker pls pls fix sending $T$ and still same problem pls fix
+updates
+1
+turns black and the volume is soo low that you have to listen to it on the ear piece and not loud speaker pls pls fix sending updates $T$ still same problem pls fix
+and
+-1
+turns black and the volume is soo low that you have to listen to it on the ear piece and not loud speaker pls pls fix sending updates and $T$ same problem pls fix
+still
+-1
+turns black and the volume is soo low that you have to listen to it on the ear piece and not loud speaker pls pls fix sending updates and still $T$ problem pls fix
+same
+-1
+turns black and the volume is soo low that you have to listen to it on the ear piece and not loud speaker pls pls fix sending updates and still same $T$ pls fix
+problem
+-1
+turns black and the volume is soo low that you have to listen to it on the ear piece and not loud speaker pls pls fix sending updates and still same problem $T$ fix
+pls
+-1
+turns black and the volume is soo low that you have to listen to it on the ear piece and not loud speaker pls pls fix sending updates and still same problem pls $T$
+fix
+-1
+I cant $T$  
+get access to my profile
+1
+$T$ cant get access to my profile
+I
+-1
+I $T$ get access to my profile
+cant
+-1
+I cant $T$ access to my profile
+get
+0
+I cant get $T$ to my profile
+access
+1
+I cant get access $T$ my profile
+to
+1
+I cant get access to $T$ profile
+my
+1
+I cant get access to my $T$
+profile
+1
+$T$ like this app get messages and pic just fine
+I
+-1
+I $T$ this app get messages and pic just fine
+like
+-1
+I like this $T$ get messages and pic just fine
+app
+-1
+I like this app $T$ messages and pic just fine
+get
+0
+I like this app get $T$ and pic just fine
+messages
+1
+I like this app get messages and $T$ just fine
+pic
+1
+I like this app get messages and pic just $T$
+fine
+-1
+$T$ fix so I can reinstall
+Please
+-1
+Please $T$ so I can reinstall
+fix
+-1
+Please fix $T$ I can reinstall
+so
+-1
+Please fix so $T$ can reinstall
+I
+-1
+Please fix so I $T$ reinstall
+can
+-1
+Please fix so I can $T$
+reinstall
+0
+$T$ not clear
+Calling voice
+1
+$T$ voice not clear
+Calling
+0
+Calling $T$ not clear
+voice
+1
+Calling voice $T$ clear
+not
+-1
+Calling voice not $T$
+clear
+-1
+$T$ main problem is slow downloading new version of whtsap , it tk lot of time for download , aft oll if we see Thn whtsap is vgd , itz fastest nd easiest for conveying our mes as well as picz etc
+Itz
+-1
+Itz $T$ problem is slow downloading new version of whtsap , it tk lot of time for download , aft oll if we see Thn whtsap is vgd , itz fastest nd easiest for conveying our mes as well as picz etc
+main
+-1
+Itz main $T$ is slow downloading new version of whtsap , it tk lot of time for download , aft oll if we see Thn whtsap is vgd , itz fastest nd easiest for conveying our mes as well as picz etc
+problem
+-1
+Itz main problem is $T$ downloading new version of whtsap , it tk lot of time for download , aft oll if we see Thn whtsap is vgd , itz fastest nd easiest for conveying our mes as well as picz etc
+slow
+-1
+Itz main problem is slow $T$ new version of whtsap , it tk lot of time for download , aft oll if we see Thn whtsap is vgd , itz fastest nd easiest for conveying our mes as well as picz etc
+downloading
+-1
+Itz main problem is slow downloading $T$ version of whtsap , it tk lot of time for download , aft oll if we see Thn whtsap is vgd , itz fastest nd easiest for conveying our mes as well as picz etc
+new
+-1
+Itz main problem is slow downloading new $T$ of whtsap , it tk lot of time for download , aft oll if we see Thn whtsap is vgd , itz fastest nd easiest for conveying our mes as well as picz etc
+version
+-1
+Itz main problem is slow downloading new version of $T$ , it tk lot of time for download , aft oll if we see Thn whtsap is vgd , itz fastest nd easiest for conveying our mes as well as picz etc
+whtsap
+-1
+Itz main problem is slow downloading new version of whtsap , it $T$ lot of time for download , aft oll if we see Thn whtsap is vgd , itz fastest nd easiest for conveying our mes as well as picz etc
+tk
+-1
+Itz main problem is slow downloading new version of whtsap , it tk $T$ of time for download , aft oll if we see Thn whtsap is vgd , itz fastest nd easiest for conveying our mes as well as picz etc
+lot
+-1
+Itz main problem is slow downloading new version of whtsap , it tk lot of $T$ for download , aft oll if we see Thn whtsap is vgd , itz fastest nd easiest for conveying our mes as well as picz etc
+time
+-1
+Itz main problem is slow downloading new version of whtsap , it tk lot of time for $T$ , aft oll if we see Thn whtsap is vgd , itz fastest nd easiest for conveying our mes as well as picz etc
+download
+-1
+Itz main problem is slow downloading new version of whtsap , it tk lot of time for download , $T$ oll if we see Thn whtsap is vgd , itz fastest nd easiest for conveying our mes as well as picz etc
+aft
+-1
+Itz main problem is slow downloading new version of whtsap , it tk lot of time for download , aft $T$ if we see Thn whtsap is vgd , itz fastest nd easiest for conveying our mes as well as picz etc
+oll
+-1
+Itz main problem is slow downloading new version of whtsap , it tk lot of time for download , aft oll if we $T$ Thn whtsap is vgd , itz fastest nd easiest for conveying our mes as well as picz etc
+see
+-1
+Itz main problem is slow downloading new version of whtsap , it tk lot of time for download , aft oll if we see $T$ whtsap is vgd , itz fastest nd easiest for conveying our mes as well as picz etc
+Thn
+-1
+Itz main problem is slow downloading new version of whtsap , it tk lot of time for download , aft oll if we see Thn $T$ is vgd , itz fastest nd easiest for conveying our mes as well as picz etc
+whtsap
+-1
+Itz main problem is slow downloading new version of whtsap , it tk lot of time for download , aft oll if we see Thn whtsap is $T$ , itz fastest nd easiest for conveying our mes as well as picz etc
+vgd
+-1
+Itz main problem is slow downloading new version of whtsap , it tk lot of time for download , aft oll if we see Thn whtsap is vgd , $T$ fastest nd easiest for conveying our mes as well as picz etc
+itz
+-1
+Itz main problem is slow downloading new version of whtsap , it tk lot of time for download , aft oll if we see Thn whtsap is vgd , itz $T$ nd easiest for conveying our mes as well as picz etc
+fastest
+-1
+Itz main problem is slow downloading new version of whtsap , it tk lot of time for download , aft oll if we see Thn whtsap is vgd , itz fastest $T$ easiest for conveying our mes as well as picz etc
+nd
+-1
+Itz main problem is slow downloading new version of whtsap , it tk lot of time for download , aft oll if we see Thn whtsap is vgd , itz fastest nd $T$ for conveying our mes as well as picz etc
+easiest
+-1
+Itz main problem is slow downloading new version of whtsap , it tk lot of time for download , aft oll if we see Thn whtsap is vgd , itz fastest nd easiest for $T$ our mes as well as picz etc
+conveying
+0
+Itz main problem is slow downloading new version of whtsap , it tk lot of time for download , aft oll if we see Thn whtsap is vgd , itz fastest nd easiest for conveying our $T$ as well as picz etc
+mes
+1
+Itz main problem is slow downloading new version of whtsap , it tk lot of time for download , aft oll if we see Thn whtsap is vgd , itz fastest nd easiest for conveying our mes as $T$ as picz etc
+well
+-1
+Itz main problem is slow downloading new version of whtsap , it tk lot of time for download , aft oll if we see Thn whtsap is vgd , itz fastest nd easiest for conveying our mes as well as $T$ etc
+picz
+1
+Itz main problem is slow downloading new version of whtsap , it tk lot of time for download , aft oll if we see Thn whtsap is vgd , itz fastest nd easiest for conveying our mes as well as picz $T$
+etc
+-1
+Im not gettig the service of $T$ after updating it if I didnt got it soon Im surely going to stop using whatsapp and uninstall it
+free call
+1
+$T$ not gettig the service of free call after updating it if I didnt got it soon Im surely going to stop using whatsapp and uninstall it
+Im
+-1
+Im $T$ gettig the service of free call after updating it if I didnt got it soon Im surely going to stop using whatsapp and uninstall it
+not
+-1
+Im not $T$ the service of free call after updating it if I didnt got it soon Im surely going to stop using whatsapp and uninstall it
+gettig
+-1
+Im not gettig $T$ service of free call after updating it if I didnt got it soon Im surely going to stop using whatsapp and uninstall it
+the
+-1
+Im not gettig the $T$ of free call after updating it if I didnt got it soon Im surely going to stop using whatsapp and uninstall it
+service
+-1
+Im not gettig the service $T$ free call after updating it if I didnt got it soon Im surely going to stop using whatsapp and uninstall it
+of
+-1
+Im not gettig the service of $T$ call after updating it if I didnt got it soon Im surely going to stop using whatsapp and uninstall it
+free
+0
+Im not gettig the service of free $T$ after updating it if I didnt got it soon Im surely going to stop using whatsapp and uninstall it
+call
+1
+Im not gettig the service of free call $T$ updating it if I didnt got it soon Im surely going to stop using whatsapp and uninstall it
+after
+-1
+Im not gettig the service of free call after $T$ it if I didnt got it soon Im surely going to stop using whatsapp and uninstall it
+updating
+0
+Im not gettig the service of free call after updating $T$ if I didnt got it soon Im surely going to stop using whatsapp and uninstall it
+it
+-1
+Im not gettig the service of free call after updating it $T$ I didnt got it soon Im surely going to stop using whatsapp and uninstall it
+if
+-1
+Im not gettig the service of free call after updating it if $T$ didnt got it soon Im surely going to stop using whatsapp and uninstall it
+I
+-1
+Im not gettig the service of free call after updating it if I $T$ got it soon Im surely going to stop using whatsapp and uninstall it
+didnt
+-1
+Im not gettig the service of free call after updating it if I didnt $T$ it soon Im surely going to stop using whatsapp and uninstall it
+got
+-1
+Im not gettig the service of free call after updating it if I didnt got $T$ soon Im surely going to stop using whatsapp and uninstall it
+it
+-1
+Im not gettig the service of free call after updating it if I didnt got it $T$ Im surely going to stop using whatsapp and uninstall it
+soon
+-1
+Im not gettig the service of free call after updating it if I didnt got it soon $T$ surely going to stop using whatsapp and uninstall it
+Im
+-1
+Im not gettig the service of free call after updating it if I didnt got it soon Im $T$ going to stop using whatsapp and uninstall it
+surely
+-1
+Im not gettig the service of free call after updating it if I didnt got it soon Im surely $T$ to stop using whatsapp and uninstall it
+going
+-1
+Im not gettig the service of free call after updating it if I didnt got it soon Im surely going $T$ stop using whatsapp and uninstall it
+to
+-1
+Im not gettig the service of free call after updating it if I didnt got it soon Im surely going to $T$ using whatsapp and uninstall it
+stop
+-1
+Im not gettig the service of free call after updating it if I didnt got it soon Im surely going to stop $T$ whatsapp and uninstall it
+using
+-1
+Im not gettig the service of free call after updating it if I didnt got it soon Im surely going to stop using $T$ and uninstall it
+whatsapp
+-1
+Im not gettig the service of free call after updating it if I didnt got it soon Im surely going to stop using whatsapp $T$ uninstall it
+and
+-1
+Im not gettig the service of free call after updating it if I didnt got it soon Im surely going to stop using whatsapp and $T$ it
+uninstall
+0
+Im not gettig the service of free call after updating it if I didnt got it soon Im surely going to stop using whatsapp and uninstall $T$
+it
+-1
+When someone tries to $T$ then it lags and full picture is not displayed even after scrolling down 
+view profile picture
+1
+$T$ someone tries to view profile picture then it lags and full picture is not displayed even after scrolling down
+When
+-1
+When $T$ tries to view profile picture then it lags and full picture is not displayed even after scrolling down
+someone
+-1
+When someone $T$ to view profile picture then it lags and full picture is not displayed even after scrolling down
+tries
+-1
+When someone tries $T$ view profile picture then it lags and full picture is not displayed even after scrolling down
+to
+-1
+When someone tries to $T$ profile picture then it lags and full picture is not displayed even after scrolling down
+view
+0
+When someone tries to view $T$ picture then it lags and full picture is not displayed even after scrolling down
+profile
+1
+When someone tries to view profile $T$ then it lags and full picture is not displayed even after scrolling down
+picture
+1
+When someone tries to view profile picture then it lags and $T$ even after scrolling down 
+full picture is not displayed
+1
+When someone tries to view profile picture $T$ it lags and full picture is not displayed even after scrolling down
+then
+-1
+When someone tries to view profile picture then $T$ lags and full picture is not displayed even after scrolling down
+it
+-1
+When someone tries to view profile picture then it $T$ and full picture is not displayed even after scrolling down
+lags
+-1
+When someone tries to view profile picture then it lags $T$ full picture is not displayed even after scrolling down
+and
+-1
+When someone tries to view profile picture then it lags and $T$ picture is not displayed even after scrolling down
+full
+0
+When someone tries to view profile picture then it lags and full $T$ is not displayed even after scrolling down
+picture
+1
+When someone tries to view profile picture then it lags and full picture $T$ not displayed even after scrolling down
+is
+1
+When someone tries to view profile picture then it lags and full picture is $T$ displayed even after scrolling down
+not
+1
+When someone tries to view profile picture then it lags and full picture is not $T$ even after scrolling down
+displayed
+1
+When someone tries to view profile picture then it lags and full picture is not displayed even after $T$ 
+scrolling down
+1
+When someone tries to view profile picture then it lags and full picture is not displayed $T$ after scrolling down
+even
+-1
+When someone tries to view profile picture then it lags and full picture is not displayed even $T$ scrolling down
+after
+-1
+When someone tries to view profile picture then it lags and full picture is not displayed even after $T$ down
+scrolling
+0
+When someone tries to view profile picture then it lags and full picture is not displayed even after scrolling $T$
+down
+1
+$T$ was very smooth until last update
+Which
+-1
+Which $T$ very smooth until last update
+was
+-1
+Which was $T$ smooth until last update
+very
+-1
+Which was very $T$ until last update
+smooth
+-1
+Which was very smooth $T$ last update
+until
+-1
+Which was very smooth until $T$ update
+last
+-1
+Which was very smooth until last $T$
+update
+0
+$T$ upload I cant see caling option on my phone pls solve my problem
+After
+-1
+After $T$ I cant see caling option on my phone pls solve my problem
+upload
+0
+After upload I cant see $T$ on my phone pls solve my problem
+caling option
+1
+After upload $T$ cant see caling option on my phone pls solve my problem
+I
+-1
+After upload I $T$ see caling option on my phone pls solve my problem
+cant
+-1
+After upload I cant $T$ caling option on my phone pls solve my problem
+see
+-1
+After upload I cant see $T$ option on my phone pls solve my problem
+caling
+0
+After upload I cant see caling $T$ on my phone pls solve my problem
+option
+1
+After upload I cant see caling option $T$ my phone pls solve my problem
+on
+-1
+After upload I cant see caling option on $T$ phone pls solve my problem
+my
+-1
+After upload I cant see caling option on my $T$ pls solve my problem
+phone
+-1
+After upload I cant see caling option on my phone $T$ solve my problem
+pls
+-1
+After upload I cant see caling option on my phone pls $T$ my problem
+solve
+-1
+After upload I cant see caling option on my phone pls solve $T$ problem
+my
+-1
+After upload I cant see caling option on my phone pls solve my $T$
+problem
+-1
+Iam not able to $T$     !!!!
+open the others profile pics
+1
+$T$ not able to open the others profile pics ! ! ! !
+Iam
+-1
+Iam $T$ able to open the others profile pics ! ! ! !
+not
+-1
+Iam not $T$ to open the others profile pics ! ! ! !
+able
+-1
+Iam not able $T$ open the others profile pics ! ! ! !
+to
+-1
+Iam not able to $T$ the others profile pics ! ! ! !
+open
+0
+Iam not able to open $T$ others profile pics ! ! ! !
+the
+1
+Iam not able to open the $T$ profile pics ! ! ! !
+others
+1
+Iam not able to open the others $T$ pics ! ! ! !
+profile
+1
+Iam not able to open the others profile $T$ ! ! ! !
+pics
+1
+$T$ Messaging and Great Images Sharing
+Great
+-1
+Great $T$ and Great Images Sharing
+Messaging
+0
+Great Messaging and Great $T$
+Images Sharing
+1
+Great Messaging $T$ Great Images Sharing
+and
+-1
+Great Messaging and $T$ Images Sharing
+Great
+-1
+Great Messaging and Great $T$ Sharing
+Images
+0
+Great Messaging and Great Images $T$
+Sharing
+1
+$T$ I can not call on whatsapp
+Why
+-1
+Why $T$ can not call on whatsapp
+I
+-1
+Why I $T$ not call on whatsapp
+can
+-1
+Why I can $T$ call on whatsapp
+not
+-1
+Why I can not $T$ on whatsapp
+call
+0
+Why I can not call $T$ whatsapp
+on
+-1
+Why I can not call on $T$
+whatsapp
+-1
+$T$ Update made it possible to deduct 2 stars
+New
+-1
+New $T$ made it possible to deduct 2 stars
+Update
+0
+New Update $T$ it possible to deduct 2 stars
+made
+-1
+New Update made $T$ possible to deduct 2 stars
+it
+-1
+New Update made it $T$ to deduct 2 stars
+possible
+-1
+New Update made it possible $T$ deduct 2 stars
+to
+-1
+New Update made it possible to $T$ 2 stars
+deduct
+-1
+New Update made it possible to deduct $T$ stars
+2
+-1
+New Update made it possible to deduct 2 $T$
+stars
+-1
+$T$ of my archives and all of my messages just disappeared
+All
+-1
+All $T$ my archives and all of my messages just disappeared
+of
+-1
+All of $T$ archives and all of my messages just disappeared
+my
+-1
+All of my $T$ and all of my messages just disappeared
+archives
+0
+All of my archives $T$ all of my messages just disappeared
+and
+-1
+All of my archives and $T$ of my messages just disappeared
+all
+-1
+All of my archives and all $T$ my messages just disappeared
+of
+-1
+All of my archives and all of $T$ messages just disappeared
+my
+-1
+All of my archives and all of my $T$ just disappeared
+messages
+0
+All of my archives and all of my messages $T$ disappeared
+just
+-1
+All of my archives and all of my messages just $T$
+disappeared
+-1
+$T$ app has crashed and after reinstalling it is not allowing me to register againg
+The
+-1
+The $T$ has crashed and after reinstalling it is not allowing me to register againg
+app
+-1
+The app $T$ crashed and after reinstalling it is not allowing me to register againg
+has
+-1
+The app has $T$ and after reinstalling it is not allowing me to register againg
+crashed
+-1
+The app has crashed $T$ after reinstalling it is not allowing me to register againg
+and
+-1
+The app has crashed and $T$ reinstalling it is not allowing me to register againg
+after
+-1
+The app has crashed and after $T$ it is not allowing me to register againg
+reinstalling
+0
+The app has crashed and after reinstalling $T$ is not allowing me to register againg
+it
+-1
+The app has crashed and after reinstalling it $T$ not allowing me to register againg
+is
+-1
+The app has crashed and after reinstalling it is $T$ allowing me to register againg
+not
+-1
+The app has crashed and after reinstalling it is not $T$ me to register againg
+allowing
+-1
+The app has crashed and after reinstalling it is not allowing $T$ to register againg
+me
+-1
+The app has crashed and after reinstalling it is not allowing me $T$ register againg
+to
+-1
+The app has crashed and after reinstalling it is not allowing me to $T$ againg
+register
+0
+The app has crashed and after reinstalling it is not allowing me to register $T$
+againg
+-1
+$T$ where as my wifi is working properly 
+Shows connection error
+1
+$T$ connection error where as my wifi is working properly
+Shows
+0
+Shows $T$ error where as my wifi is working properly
+connection
+1
+Shows connection $T$ where as my wifi is working properly
+error
+1
+Shows connection error $T$ as my wifi is working properly
+where
+-1
+Shows connection error where $T$ my wifi is working properly
+as
+-1
+Shows connection error where as $T$ wifi is working properly
+my
+-1
+Shows connection error where as my $T$ is working properly
+wifi
+-1
+Shows connection error where as my wifi $T$ working properly
+is
+-1
+Shows connection error where as my wifi is $T$ properly
+working
+-1
+Shows connection error where as my wifi is working $T$
+properly
+-1
+$T$ is not actived
+Calling
+0
+Calling $T$ not actived
+is
+-1
+Calling is $T$ actived
+not
+-1
+Calling is not $T$
+actived
+-1
+$T$ to msj n col video to friends n family
+Easy
+-1
+Easy $T$ msj n col video to friends n family
+to
+-1
+Easy to $T$ n col video to friends n family
+msj
+0
+Easy to msj n $T$ to friends n family 
+col video
+1
+Easy to msj $T$ col video to friends n family
+n
+-1
+Easy to msj n $T$ video to friends n family
+col
+0
+Easy to msj n col $T$ to friends n family
+video
+1
+Easy to msj n col video $T$ friends n family
+to
+-1
+Easy to msj n col video to $T$ n family
+friends
+-1
+Easy to msj n col video to friends $T$ family
+n
+-1
+Easy to msj n col video to friends n $T$
+family
+-1
+$T$ but previous versions UI was better
+Good
+-1
+Good $T$ previous versions UI was better
+but
+-1
+Good but $T$ versions UI was better
+previous
+-1
+Good but previous $T$ UI was better
+versions
+-1
+Good but previous versions $T$ was better
+UI
+0
+Good but previous versions UI $T$ better
+was
+-1
+Good but previous versions UI was $T$
+better
+-1
+I cant $T$ what the hell!
+update the latest version
+1
+$T$ cant update the latest version what the hell !
+I
+-1
+I $T$ update the latest version what the hell !
+cant
+-1
+I cant $T$ the latest version what the hell !
+update
+0
+I cant update $T$ latest version what the hell !
+the
+1
+I cant update the $T$ version what the hell !
+latest
+1
+I cant update the latest $T$ what the hell !
+version
+1
+I cant update the latest version $T$ the hell !
+what
+-1
+I cant update the latest version what $T$ hell !
+the
+-1
+I cant update the latest version what the $T$ !
+hell
+-1
+I have a large $T$ 
+group of my friends
+1
+$T$ have a large group of my friends
+I
+-1
+I $T$ a large group of my friends
+have
+-1
+I have $T$ large group of my friends
+a
+-1
+I have a $T$ group of my friends
+large
+-1
+I have a large $T$ of my friends
+group
+0
+I have a large group $T$ my friends
+of
+1
+I have a large group of $T$ friends
+my
+1
+I have a large group of my $T$
+friends
+1
+$T$ app is nice but a problem always create later 3-4 months it have to redownload / update
+This
+-1
+This $T$ is nice but a problem always create later 3-4 months it have to redownload / update
+app
+-1
+This app $T$ nice but a problem always create later 3-4 months it have to redownload / update
+is
+-1
+This app is $T$ but a problem always create later 3-4 months it have to redownload / update
+nice
+-1
+This app is nice $T$ a problem always create later 3-4 months it have to redownload / update
+but
+-1
+This app is nice but $T$ problem always create later 3-4 months it have to redownload / update
+a
+-1
+This app is nice but a $T$ always create later 3-4 months it have to redownload / update
+problem
+-1
+This app is nice but a problem $T$ create later 3-4 months it have to redownload / update
+always
+-1
+This app is nice but a problem always $T$ later 3-4 months it have to redownload / update
+create
+-1
+This app is nice but a problem always create $T$ 3-4 months it have to redownload / update
+later
+-1
+This app is nice but a problem always create later $T$ months it have to redownload / update
+3-4
+-1
+This app is nice but a problem always create later 3-4 $T$ it have to redownload / update
+months
+-1
+This app is nice but a problem always create later 3-4 months $T$ have to redownload / update
+it
+-1
+This app is nice but a problem always create later 3-4 months it $T$ to redownload / update
+have
+-1
+This app is nice but a problem always create later 3-4 months it have $T$ redownload / update
+to
+-1
+This app is nice but a problem always create later 3-4 months it have to $T$ / update
+redownload
+-1
+This app is nice but a problem always create later 3-4 months it have to redownload / $T$
+update
+0
+It now $T$ whether theyve been read or not
+shows plenty of notifications
+1
+$T$ now shows plenty of notifications whether theyve been read or not
+It
+-1
+It $T$ shows plenty of notifications whether theyve been read or not
+now
+-1
+It now $T$ plenty of notifications whether theyve been read or not
+shows
+0
+It now shows $T$ of notifications whether theyve been read or not
+plenty
+1
+It now shows plenty $T$ notifications whether theyve been read or not
+of
+1
+It now shows plenty of $T$ whether theyve been read or not
+notifications
+1
+It now shows plenty of notifications $T$ theyve been read or not
+whether
+-1
+It now shows plenty of notifications whether $T$ been read or not
+theyve
+-1
+It now shows plenty of notifications whether theyve $T$ read or not
+been
+-1
+It now shows plenty of notifications whether theyve been $T$ or not
+read
+-1
+It now shows plenty of notifications whether theyve been read $T$ not
+or
+-1
+It now shows plenty of notifications whether theyve been read or $T$
+not
+-1
+And enjoying the new $T$
+call system
+1
+$T$ enjoying the new call system
+And
+-1
+And $T$ the new call system
+enjoying
+-1
+And enjoying $T$ new call system
+the
+-1
+And enjoying the $T$ call system
+new
+-1
+And enjoying the new $T$ system
+call
+0
+And enjoying the new call $T$
+system
+1
+$T$ but why no calling
+Like
+-1
+Like $T$ why no calling
+but
+-1
+Like but $T$ no calling
+why
+-1
+Like but why $T$ calling
+no
+-1
+Like but why no $T$
+calling
+0
+$T$ update is crap it hangs alot
+The
+-1
+The $T$ is crap it hangs alot
+update
+0
+The update $T$ crap it hangs alot
+is
+-1
+The update is $T$ it hangs alot
+crap
+-1
+The update is crap $T$ hangs alot
+it
+-1
+The update is crap it $T$ alot
+hangs
+-1
+The update is crap it hangs $T$
+alot
+-1
+Fix to $T$
+send some pdf file
+1
+$T$ to send some pdf file
+Fix
+-1
+Fix $T$ send some pdf file
+to
+-1
+Fix to $T$ some pdf file
+send
+0
+Fix to send $T$ pdf file
+some
+1
+Fix to send some $T$ file
+pdf
+1
+Fix to send some pdf $T$
+file
+1
+I cant download need $T$ and im using temporary phone still cant download WhatsApp
+SMS Plan
+1
+$T$ cant download need SMS Plan and im using temporary phone still cant download WhatsApp
+I
+-1
+I $T$ download need SMS Plan and im using temporary phone still cant download WhatsApp
+cant
+-1
+I cant $T$ need SMS Plan and im using temporary phone still cant download WhatsApp
+download
+-1
+I cant download $T$ SMS Plan and im using temporary phone still cant download WhatsApp
+need
+-1
+I cant download need $T$ Plan and im using temporary phone still cant download WhatsApp
+SMS
+0
+I cant download need SMS $T$ and im using temporary phone still cant download WhatsApp
+Plan
+1
+I cant download need SMS Plan $T$ im using temporary phone still cant download WhatsApp
+and
+-1
+I cant download need SMS Plan and $T$ using temporary phone still cant download WhatsApp
+im
+-1
+I cant download need SMS Plan and im $T$ temporary phone still cant download WhatsApp
+using
+-1
+I cant download need SMS Plan and im using $T$ phone still cant download WhatsApp
+temporary
+-1
+I cant download need SMS Plan and im using temporary $T$ still cant download WhatsApp
+phone
+-1
+I cant download need SMS Plan and im using temporary phone $T$ cant download WhatsApp
+still
+-1
+I cant download need SMS Plan and im using temporary phone still $T$ download WhatsApp
+cant
+-1
+I cant download need SMS Plan and im using temporary phone still cant $T$ WhatsApp
+download
+-1
+I cant download need SMS Plan and im using temporary phone still cant download $T$
+WhatsApp
+-1
+No $T$   
+calling option
+1
+$T$ calling option
+No
+-1
+No $T$ option
+calling
+0
+No calling $T$
+option
+1
+Im thinking that it would be better if you can $T$ 
+expand the chat list
+1
+$T$ thinking that it would be better if you can expand the chat list
+Im
+-1
+Im $T$ that it would be better if you can expand the chat list
+thinking
+-1
+Im thinking $T$ it would be better if you can expand the chat list
+that
+-1
+Im thinking that $T$ would be better if you can expand the chat list
+it
+-1
+Im thinking that it $T$ be better if you can expand the chat list
+would
+-1
+Im thinking that it would $T$ better if you can expand the chat list
+be
+-1
+Im thinking that it would be $T$ if you can expand the chat list
+better
+-1
+Im thinking that it would be better $T$ you can expand the chat list
+if
+-1
+Im thinking that it would be better if $T$ can expand the chat list
+you
+-1
+Im thinking that it would be better if you $T$ expand the chat list
+can
+-1
+Im thinking that it would be better if you can $T$ the chat list
+expand
+0
+Im thinking that it would be better if you can expand $T$ chat list
+the
+1
+Im thinking that it would be better if you can expand the $T$ list
+chat
+1
+Im thinking that it would be better if you can expand the chat $T$
+list
+1
+Now, it only $T$ (line1: name, line2: last message) 
+show 2 lines of information
+1
+$T$ , it only show 2 lines of information ( line1 : name , line2 : last message )
+Now
+-1
+Now , $T$ only show 2 lines of information ( line1 : name , line2 : last message )
+it
+-1
+Now , it $T$ show 2 lines of information ( line1 : name , line2 : last message )
+only
+-1
+Now , it only $T$ 2 lines of information ( line1 : name , line2 : last message )
+show
+0
+Now , it only show $T$ lines of information ( line1 : name , line2 : last message )
+2
+1
+Now , it only show 2 $T$ of information ( line1 : name , line2 : last message )
+lines
+1
+Now , it only show 2 lines $T$ information ( line1 : name , line2 : last message )
+of
+1
+Now , it only show 2 lines of $T$ ( line1 : name , line2 : last message )
+information
+1
+Now , it only show 2 lines of information ( $T$ : name , line2 : last message )
+line1
+-1
+Now , it only show 2 lines of information ( line1 : $T$ , line2 : last message )
+name
+-1
+Now , it only show 2 lines of information ( line1 : name , $T$ : last message )
+line2
+-1
+Now , it only show 2 lines of information ( line1 : name , line2 : $T$ message )
+last
+-1
+Now , it only show 2 lines of information ( line1 : name , line2 : last $T$ )
+message
+0
+See if you can make it to 3 lines of information (line1: name, line2: $T$, line3: last message) 
+persons status
+1
+$T$ if you can make it to 3 lines of information ( line1 : name , line2 : persons status , line3 : last message )
+See
+-1
+See $T$ you can make it to 3 lines of information ( line1 : name , line2 : persons status , line3 : last message )
+if
+-1
+See if $T$ can make it to 3 lines of information ( line1 : name , line2 : persons status , line3 : last message )
+you
+-1
+See if you $T$ make it to 3 lines of information ( line1 : name , line2 : persons status , line3 : last message )
+can
+-1
+See if you can $T$ it to 3 lines of information ( line1 : name , line2 : persons status , line3 : last message )
+make
+-1
+See if you can make $T$ to 3 lines of information ( line1 : name , line2 : persons status , line3 : last message )
+it
+-1
+See if you can make it $T$ 3 lines of information ( line1 : name , line2 : persons status , line3 : last message )
+to
+-1
+See if you can make it to $T$ lines of information ( line1 : name , line2 : persons status , line3 : last message )
+3
+-1
+See if you can make it to 3 $T$ of information ( line1 : name , line2 : persons status , line3 : last message )
+lines
+-1
+See if you can make it to 3 lines $T$ information ( line1 : name , line2 : persons status , line3 : last message )
+of
+-1
+See if you can make it to 3 lines of $T$ ( line1 : name , line2 : persons status , line3 : last message )
+information
+-1
+See if you can make it to 3 lines of information ( $T$ : name , line2 : persons status , line3 : last message )
+line1
+-1
+See if you can make it to 3 lines of information ( line1 : $T$ , line2 : persons status , line3 : last message )
+name
+-1
+See if you can make it to 3 lines of information ( line1 : name , $T$ : persons status , line3 : last message )
+line2
+-1
+See if you can make it to 3 lines of information ( line1 : name , line2 : $T$ status , line3 : last message )
+persons
+0
+See if you can make it to 3 lines of information ( line1 : name , line2 : persons $T$ , line3 : last message )
+status
+1
+See if you can make it to 3 lines of information (line1: name, line2: persons status, line3: $T$) 
+last message
+1
+See if you can make it to 3 lines of information ( line1 : name , line2 : persons status , $T$ : last message )
+line3
+-1
+See if you can make it to 3 lines of information ( line1 : name , line2 : persons status , line3 : $T$ message )
+last
+0
+See if you can make it to 3 lines of information ( line1 : name , line2 : persons status , line3 : last $T$ )
+message
+1
+$T$ for chatting
+Nice
+-1
+Nice $T$ chatting
+for
+-1
+Nice for $T$
+chatting
+0
+Its an awsome app    but it would be an more awsome if it had $T$    am eagerly waiting for it
+callin feature
+1
+$T$ an awsome app but it would be an more awsome if it had callin feature am eagerly waiting for it
+Its
+-1
+Its $T$ awsome app but it would be an more awsome if it had callin feature am eagerly waiting for it
+an
+-1
+Its an $T$ app but it would be an more awsome if it had callin feature am eagerly waiting for it
+awsome
+-1
+Its an awsome $T$ but it would be an more awsome if it had callin feature am eagerly waiting for it
+app
+-1
+Its an awsome app $T$ it would be an more awsome if it had callin feature am eagerly waiting for it
+but
+-1
+Its an awsome app but $T$ would be an more awsome if it had callin feature am eagerly waiting for it
+it
+-1
+Its an awsome app but it $T$ be an more awsome if it had callin feature am eagerly waiting for it
+would
+-1
+Its an awsome app but it would $T$ an more awsome if it had callin feature am eagerly waiting for it
+be
+-1
+Its an awsome app but it would be $T$ more awsome if it had callin feature am eagerly waiting for it
+an
+-1
+Its an awsome app but it would be an $T$ awsome if it had callin feature am eagerly waiting for it
+more
+-1
+Its an awsome app but it would be an more $T$ if it had callin feature am eagerly waiting for it
+awsome
+-1
+Its an awsome app but it would be an more awsome $T$ it had callin feature am eagerly waiting for it
+if
+-1
+Its an awsome app but it would be an more awsome if $T$ had callin feature am eagerly waiting for it
+it
+-1
+Its an awsome app but it would be an more awsome if it $T$ callin feature am eagerly waiting for it
+had
+-1
+Its an awsome app but it would be an more awsome if it had $T$ feature am eagerly waiting for it
+callin
+0
+Its an awsome app but it would be an more awsome if it had callin $T$ am eagerly waiting for it
+feature
+1
+Its an awsome app but it would be an more awsome if it had callin feature $T$ eagerly waiting for it
+am
+-1
+Its an awsome app but it would be an more awsome if it had callin feature am $T$ waiting for it
+eagerly
+-1
+Its an awsome app but it would be an more awsome if it had callin feature am eagerly $T$ for it
+waiting
+-1
+Its an awsome app but it would be an more awsome if it had callin feature am eagerly waiting $T$ it
+for
+-1
+Its an awsome app but it would be an more awsome if it had callin feature am eagerly waiting for $T$
+it
+-1
+$T$ updated few days ago
+Ive
+-1
+Ive $T$ few days ago
+updated
+0
+Ive updated $T$ days ago
+few
+-1
+Ive updated few $T$ ago
+days
+-1
+Ive updated few days $T$
+ago
+-1
+$T$ is something wrong with this update
+There
+-1
+There $T$ something wrong with this update
+is
+-1
+There is $T$ wrong with this update
+something
+-1
+There is something $T$ with this update
+wrong
+-1
+There is something wrong $T$ this update
+with
+-1
+There is something wrong with $T$ update
+this
+-1
+There is something wrong with this $T$
+update
+0
+Im not $T$ properly 
+getting notifications
+1
+$T$ not getting notifications properly
+Im
+-1
+Im $T$ getting notifications properly
+not
+-1
+Im not $T$ notifications properly
+getting
+0
+Im not getting $T$ properly
+notifications
+1
+Im not getting notifications $T$
+properly
+-1
+Its very nice that it $T$ who are far away from each other but it is also a distraction from other things !!
+keeps people in touch
+1
+$T$ very nice that it keeps people in touch who are far away from each other but it is also a distraction from other things ! !
+Its
+-1
+Its $T$ nice that it keeps people in touch who are far away from each other but it is also a distraction from other things ! !
+very
+-1
+Its very $T$ that it keeps people in touch who are far away from each other but it is also a distraction from other things ! !
+nice
+-1
+Its very nice $T$ it keeps people in touch who are far away from each other but it is also a distraction from other things ! !
+that
+-1
+Its very nice that $T$ keeps people in touch who are far away from each other but it is also a distraction from other things ! !
+it
+-1
+Its very nice that it $T$ people in touch who are far away from each other but it is also a distraction from other things ! !
+keeps
+0
+Its very nice that it keeps $T$ in touch who are far away from each other but it is also a distraction from other things ! !
+people
+1
+Its very nice that it keeps people $T$ touch who are far away from each other but it is also a distraction from other things ! !
+in
+1
+Its very nice that it keeps people in $T$ who are far away from each other but it is also a distraction from other things ! !
+touch
+1
+Its very nice that it keeps people in touch $T$ are far away from each other but it is also a distraction from other things ! !
+who
+-1
+Its very nice that it keeps people in touch who $T$ far away from each other but it is also a distraction from other things ! !
+are
+-1
+Its very nice that it keeps people in touch who are $T$ away from each other but it is also a distraction from other things ! !
+far
+-1
+Its very nice that it keeps people in touch who are far $T$ from each other but it is also a distraction from other things ! !
+away
+-1
+Its very nice that it keeps people in touch who are far away $T$ each other but it is also a distraction from other things ! !
+from
+-1
+Its very nice that it keeps people in touch who are far away from $T$ other but it is also a distraction from other things ! !
+each
+-1
+Its very nice that it keeps people in touch who are far away from each $T$ but it is also a distraction from other things ! !
+other
+-1
+Its very nice that it keeps people in touch who are far away from each other $T$ it is also a distraction from other things ! !
+but
+-1
+Its very nice that it keeps people in touch who are far away from each other but $T$ is also a distraction from other things ! !
+it
+-1
+Its very nice that it keeps people in touch who are far away from each other but it $T$ also a distraction from other things ! !
+is
+-1
+Its very nice that it keeps people in touch who are far away from each other but it is $T$ a distraction from other things ! !
+also
+-1
+Its very nice that it keeps people in touch who are far away from each other but it is also $T$ distraction from other things ! !
+a
+-1
+Its very nice that it keeps people in touch who are far away from each other but it is also a $T$ from other things ! !
+distraction
+-1
+Its very nice that it keeps people in touch who are far away from each other but it is also a distraction $T$ other things ! !
+from
+-1
+Its very nice that it keeps people in touch who are far away from each other but it is also a distraction from $T$ things ! !
+other
+-1
+Its very nice that it keeps people in touch who are far away from each other but it is also a distraction from other $T$ ! !
+things
+-1
+And if $T$ like over 50 mb then it would be great
+larger files could be transferred
+1
+$T$ if larger files could be transferred like over 50 mb then it would be great
+And
+-1
+And $T$ larger files could be transferred like over 50 mb then it would be great
+if
+-1
+And if $T$ files could be transferred like over 50 mb then it would be great
+larger
+0
+And if larger $T$ could be transferred like over 50 mb then it would be great
+files
+1
+And if larger files $T$ be transferred like over 50 mb then it would be great
+could
+1
+And if larger files could $T$ transferred like over 50 mb then it would be great
+be
+1
+And if larger files could be $T$ like over 50 mb then it would be great
+transferred
+1
+And if larger files could be transferred $T$ over 50 mb then it would be great
+like
+-1
+And if larger files could be transferred like $T$ 50 mb then it would be great
+over
+-1
+And if larger files could be transferred like over $T$ mb then it would be great
+50
+-1
+And if larger files could be transferred like over 50 $T$ then it would be great
+mb
+-1
+And if larger files could be transferred like over 50 mb $T$ it would be great
+then
+-1
+And if larger files could be transferred like over 50 mb then $T$ would be great
+it
+-1
+And if larger files could be transferred like over 50 mb then it $T$ be great
+would
+-1
+And if larger files could be transferred like over 50 mb then it would $T$ great
+be
+-1
+And if larger files could be transferred like over 50 mb then it would be $T$
+great
+-1
+$T$ app Is still installing
+This
+-1
+This $T$ Is still installing
+app
+-1
+This app $T$ still installing
+Is
+-1
+This app Is $T$ installing
+still
+-1
+This app Is still $T$
+installing
+0
+But then the $T$ in Whatsapp unless u add +91 
+contact wont show up
+1
+$T$ then the contact wont show up in Whatsapp unless u add +91
+But
+-1
+But $T$ the contact wont show up in Whatsapp unless u add +91
+then
+-1
+But then $T$ contact wont show up in Whatsapp unless u add +91
+the
+-1
+But then the $T$ wont show up in Whatsapp unless u add +91
+contact
+0
+But then the contact $T$ show up in Whatsapp unless u add +91
+wont
+1
+But then the contact wont $T$ up in Whatsapp unless u add +91
+show
+1
+But then the contact wont show $T$ in Whatsapp unless u add +91
+up
+1
+But then the contact wont show up $T$ Whatsapp unless u add +91
+in
+-1
+But then the contact wont show up in $T$ unless u add +91
+Whatsapp
+-1
+But then the contact wont show up in Whatsapp $T$ u add +91
+unless
+-1
+But then the contact wont show up in Whatsapp unless $T$ add +91
+u
+-1
+But then the contact wont show up in Whatsapp unless u $T$ +91
+add
+-1
+But then the contact wont show up in Whatsapp unless u add $T$
++91
+-1
+$T$ add stickers also like hike
+plz
+-1
+plz $T$ stickers also like hike
+add
+-1
+plz add $T$ also like hike
+stickers
+0
+plz add stickers $T$ like hike
+also
+-1
+plz add stickers also $T$ hike
+like
+-1
+plz add stickers also like $T$
+hike
+-1
+$T$ updated n got whatsapp calling option called thru wifi but unable to hear second party then i received one call i answered still same prob i checked with my friends here in uae and india all r facing same prob plz fix it
+just
+-1
+just $T$ n got whatsapp calling option called thru wifi but unable to hear second party then i received one call i answered still same prob i checked with my friends here in uae and india all r facing same prob plz fix it
+updated
+0
+just updated n got $T$   called thru wifi but unable to hear second party    then i received one call i answered still same prob    i checked with my friends here in uae and india all r facing same prob plz fix it 
+whatsapp calling option
+1
+just updated $T$ got whatsapp calling option called thru wifi but unable to hear second party then i received one call i answered still same prob i checked with my friends here in uae and india all r facing same prob plz fix it
+n
+-1
+just updated n $T$ whatsapp calling option called thru wifi but unable to hear second party then i received one call i answered still same prob i checked with my friends here in uae and india all r facing same prob plz fix it
+got
+-1
+just updated n got $T$ calling option called thru wifi but unable to hear second party then i received one call i answered still same prob i checked with my friends here in uae and india all r facing same prob plz fix it
+whatsapp
+0
+just updated n got whatsapp $T$ option called thru wifi but unable to hear second party then i received one call i answered still same prob i checked with my friends here in uae and india all r facing same prob plz fix it
+calling
+1
+just updated n got whatsapp calling $T$ called thru wifi but unable to hear second party then i received one call i answered still same prob i checked with my friends here in uae and india all r facing same prob plz fix it
+option
+1
+just updated n got whatsapp calling option   $T$ but unable to hear second party    then i received one call i answered still same prob    i checked with my friends here in uae and india all r facing same prob plz fix it 
+called thru wifi
+1
+just updated n got whatsapp calling option $T$ thru wifi but unable to hear second party then i received one call i answered still same prob i checked with my friends here in uae and india all r facing same prob plz fix it
+called
+0
+just updated n got whatsapp calling option called $T$ wifi but unable to hear second party then i received one call i answered still same prob i checked with my friends here in uae and india all r facing same prob plz fix it
+thru
+1
+just updated n got whatsapp calling option called thru $T$ but unable to hear second party then i received one call i answered still same prob i checked with my friends here in uae and india all r facing same prob plz fix it
+wifi
+1
+just updated n got whatsapp calling option   called thru wifi but unable to $T$    then i received one call i answered still same prob    i checked with my friends here in uae and india all r facing same prob plz fix it 
+hear second party
+1
+just updated n got whatsapp calling option called thru wifi $T$ unable to hear second party then i received one call i answered still same prob i checked with my friends here in uae and india all r facing same prob plz fix it
+but
+-1
+just updated n got whatsapp calling option called thru wifi but $T$ to hear second party then i received one call i answered still same prob i checked with my friends here in uae and india all r facing same prob plz fix it
+unable
+-1
+just updated n got whatsapp calling option called thru wifi but unable $T$ hear second party then i received one call i answered still same prob i checked with my friends here in uae and india all r facing same prob plz fix it
+to
+-1
+just updated n got whatsapp calling option called thru wifi but unable to $T$ second party then i received one call i answered still same prob i checked with my friends here in uae and india all r facing same prob plz fix it
+hear
+0
+just updated n got whatsapp calling option called thru wifi but unable to hear $T$ party then i received one call i answered still same prob i checked with my friends here in uae and india all r facing same prob plz fix it
+second
+1
+just updated n got whatsapp calling option called thru wifi but unable to hear second $T$ then i received one call i answered still same prob i checked with my friends here in uae and india all r facing same prob plz fix it
+party
+1
+just updated n got whatsapp calling option   called thru wifi but unable to hear second party    then i $T$ i answered still same prob    i checked with my friends here in uae and india all r facing same prob plz fix it 
+received one call
+1
+just updated n got whatsapp calling option called thru wifi but unable to hear second party $T$ i received one call i answered still same prob i checked with my friends here in uae and india all r facing same prob plz fix it
+then
+-1
+just updated n got whatsapp calling option called thru wifi but unable to hear second party then $T$ received one call i answered still same prob i checked with my friends here in uae and india all r facing same prob plz fix it
+i
+-1
+just updated n got whatsapp calling option called thru wifi but unable to hear second party then i $T$ one call i answered still same prob i checked with my friends here in uae and india all r facing same prob plz fix it
+received
+0
+just updated n got whatsapp calling option called thru wifi but unable to hear second party then i received $T$ call i answered still same prob i checked with my friends here in uae and india all r facing same prob plz fix it
+one
+1
+just updated n got whatsapp calling option called thru wifi but unable to hear second party then i received one $T$ i answered still same prob i checked with my friends here in uae and india all r facing same prob plz fix it
+call
+1
+just updated n got whatsapp calling option called thru wifi but unable to hear second party then i received one call $T$ answered still same prob i checked with my friends here in uae and india all r facing same prob plz fix it
+i
+-1
+just updated n got whatsapp calling option called thru wifi but unable to hear second party then i received one call i $T$ still same prob i checked with my friends here in uae and india all r facing same prob plz fix it
+answered
+-1
+just updated n got whatsapp calling option called thru wifi but unable to hear second party then i received one call i answered $T$ same prob i checked with my friends here in uae and india all r facing same prob plz fix it
+still
+-1
+just updated n got whatsapp calling option called thru wifi but unable to hear second party then i received one call i answered still $T$ prob i checked with my friends here in uae and india all r facing same prob plz fix it
+same
+-1
+just updated n got whatsapp calling option called thru wifi but unable to hear second party then i received one call i answered still same $T$ i checked with my friends here in uae and india all r facing same prob plz fix it
+prob
+-1
+just updated n got whatsapp calling option called thru wifi but unable to hear second party then i received one call i answered still same prob $T$ checked with my friends here in uae and india all r facing same prob plz fix it
+i
+-1
+just updated n got whatsapp calling option called thru wifi but unable to hear second party then i received one call i answered still same prob i $T$ with my friends here in uae and india all r facing same prob plz fix it
+checked
+-1
+just updated n got whatsapp calling option called thru wifi but unable to hear second party then i received one call i answered still same prob i checked $T$ my friends here in uae and india all r facing same prob plz fix it
+with
+-1
+just updated n got whatsapp calling option called thru wifi but unable to hear second party then i received one call i answered still same prob i checked with $T$ friends here in uae and india all r facing same prob plz fix it
+my
+-1
+just updated n got whatsapp calling option called thru wifi but unable to hear second party then i received one call i answered still same prob i checked with my $T$ here in uae and india all r facing same prob plz fix it
+friends
+-1
+just updated n got whatsapp calling option called thru wifi but unable to hear second party then i received one call i answered still same prob i checked with my friends $T$ in uae and india all r facing same prob plz fix it
+here
+-1
+just updated n got whatsapp calling option called thru wifi but unable to hear second party then i received one call i answered still same prob i checked with my friends here $T$ uae and india all r facing same prob plz fix it
+in
+-1
+just updated n got whatsapp calling option called thru wifi but unable to hear second party then i received one call i answered still same prob i checked with my friends here in $T$ and india all r facing same prob plz fix it
+uae
+-1
+just updated n got whatsapp calling option called thru wifi but unable to hear second party then i received one call i answered still same prob i checked with my friends here in uae $T$ india all r facing same prob plz fix it
+and
+-1
+just updated n got whatsapp calling option called thru wifi but unable to hear second party then i received one call i answered still same prob i checked with my friends here in uae and $T$ all r facing same prob plz fix it
+india
+-1
+just updated n got whatsapp calling option called thru wifi but unable to hear second party then i received one call i answered still same prob i checked with my friends here in uae and india $T$ r facing same prob plz fix it
+all
+-1
+just updated n got whatsapp calling option called thru wifi but unable to hear second party then i received one call i answered still same prob i checked with my friends here in uae and india all $T$ facing same prob plz fix it
+r
+-1
+just updated n got whatsapp calling option called thru wifi but unable to hear second party then i received one call i answered still same prob i checked with my friends here in uae and india all r $T$ same prob plz fix it
+facing
+-1
+just updated n got whatsapp calling option called thru wifi but unable to hear second party then i received one call i answered still same prob i checked with my friends here in uae and india all r facing $T$ prob plz fix it
+same
+-1
+just updated n got whatsapp calling option called thru wifi but unable to hear second party then i received one call i answered still same prob i checked with my friends here in uae and india all r facing same $T$ plz fix it
+prob
+-1
+just updated n got whatsapp calling option called thru wifi but unable to hear second party then i received one call i answered still same prob i checked with my friends here in uae and india all r facing same prob $T$ fix it
+plz
+-1
+just updated n got whatsapp calling option called thru wifi but unable to hear second party then i received one call i answered still same prob i checked with my friends here in uae and india all r facing same prob plz $T$ it
+fix
+-1
+just updated n got whatsapp calling option called thru wifi but unable to hear second party then i received one call i answered still same prob i checked with my friends here in uae and india all r facing same prob plz fix $T$
+it
+-1
+$T$ this update thing I hate it
+Just
+-1
+Just $T$ update thing I hate it
+this
+-1
+Just this $T$ thing I hate it
+update
+0
+Just this update $T$ I hate it
+thing
+-1
+Just this update thing $T$ hate it
+I
+-1
+Just this update thing I $T$ it
+hate
+-1
+Just this update thing I hate $T$
+it
+-1
+$T$ new update
+No
+-1
+No $T$ update
+new
+-1
+No new $T$
+update
+0
+Best app but not a $T$
+calling system
+1
+$T$ app but not a calling system
+Best
+-1
+Best $T$ but not a calling system
+app
+-1
+Best app $T$ not a calling system
+but
+-1
+Best app but $T$ a calling system
+not
+-1
+Best app but not $T$ calling system
+a
+-1
+Best app but not a $T$ system
+calling
+0
+Best app but not a calling $T$
+system
+1
+$T$ update app as It can not be updated on Samsung galaxy S3 for voice calls
+Please
+-1
+Please $T$ app as It can not be updated on Samsung galaxy S3 for voice calls
+update
+0
+$T$ update app as It can not be updated on Samsung galaxy S3 for voice calls
+Please
+-1
+Please $T$ app as It can not be updated on Samsung galaxy S3 for voice calls
+update
+0
+Please update $T$ as It can not be updated on Samsung galaxy S3 for voice calls
+app
+-1
+Please update app as $T$ can not be updated on Samsung galaxy S3 for voice calls
+It
+-1
+Please update app as It can not be $T$ on Samsung galaxy S3 for voice calls
+updated
+0
+Please update app as It can not be updated on $T$ galaxy S3 for voice calls
+Samsung
+-1
+Please update app as It can not be updated on Samsung $T$ S3 for voice calls
+galaxy
+-1
+Please update app as It can not be updated on Samsung galaxy $T$ for voice calls
+S3
+-1
+Please update app as It can not be updated on Samsung galaxy S3 for $T$ calls
+voice
+0
+Please update app as It can not be updated on Samsung galaxy S3 for voice $T$
+calls
+1
+Please update app as It cannot be updated on Samsung galaxy S3 for $T$ 
+voice calls
+1
+Please update $T$ as It can not be updated on Samsung galaxy S3 for voice calls
+app
+-1
+Please update app $T$ It can not be updated on Samsung galaxy S3 for voice calls
+as
+-1
+Please update app as $T$ can not be updated on Samsung galaxy S3 for voice calls
+It
+-1
+Please update app as It $T$ not be updated on Samsung galaxy S3 for voice calls
+can
+-1
+Please update app as It can $T$ be updated on Samsung galaxy S3 for voice calls
+not
+-1
+Please update app as It can not $T$ updated on Samsung galaxy S3 for voice calls
+be
+-1
+Please update app as It can not be $T$ on Samsung galaxy S3 for voice calls
+updated
+-1
+Please update app as It can not be updated $T$ Samsung galaxy S3 for voice calls
+on
+-1
+Please update app as It can not be updated on $T$ galaxy S3 for voice calls
+Samsung
+-1
+Please update app as It can not be updated on Samsung $T$ S3 for voice calls
+galaxy
+-1
+Please update app as It can not be updated on Samsung galaxy $T$ for voice calls
+S3
+-1
+Please update app as It can not be updated on Samsung galaxy S3 $T$ voice calls
+for
+-1
+Please update app as It can not be updated on Samsung galaxy S3 for $T$ calls
+voice
+0
+Please update app as It can not be updated on Samsung galaxy S3 for voice $T$
+calls
+1
+$T$ every one should must install in your phone
+frnds
+-1
+frnds $T$ one should must install in your phone
+every
+-1
+frnds every $T$ should must install in your phone
+one
+-1
+frnds every one $T$ must install in your phone
+should
+-1
+frnds every one should $T$ install in your phone
+must
+-1
+frnds every one should must $T$ in your phone
+install
+0
+frnds every one should must install $T$ your phone
+in
+-1
+frnds every one should must install in $T$ phone
+your
+-1
+frnds every one should must install in your $T$
+phone
+-1
+I can $T$ in texas and Mexico 
+call family
+1
+$T$ can call family in texas and Mexico
+I
+-1
+I $T$ call family in texas and Mexico
+can
+-1
+I can $T$ family in texas and Mexico
+call
+0
+I can call $T$ in texas and Mexico
+family
+1
+I can call family $T$ texas and Mexico
+in
+-1
+I can call family in $T$ and Mexico
+texas
+-1
+I can call family in texas $T$ Mexico
+and
+-1
+I can call family in texas and $T$
+Mexico
+-1
+Great $T$ and talk hu
+chat block
+1
+$T$ chat block and talk hu
+Great
+-1
+Great $T$ block and talk hu
+chat
+0
+Great chat $T$ and talk hu
+block
+1
+Great chat block $T$ talk hu
+and
+-1
+Great chat block and $T$ hu
+talk
+-1
+Great chat block and talk $T$
+hu
+-1
+$T$ the new calling option but a ridiculous place to put the button as keep pressing by mistake when trying to send a photo or video !
+Like
+-1
+Like the $T$ calling option but a ridiculous place to put the button as keep pressing by mistake when trying to send a photo or video !
+new
+-1
+Like the new $T$ option but a ridiculous place to put the button as keep pressing by mistake when trying to send a photo or video !
+calling
+0
+Like the new calling $T$ but a ridiculous place to put the button as keep pressing by mistake when trying to send a photo or video !
+option
+1
+Like the new calling option but a $T$ place to put the button as keep pressing by mistake when trying to send a photo or video !
+ridiculous
+-1
+Like the new calling option but a ridiculous $T$ to put the button as keep pressing by mistake when trying to send a photo or video !
+place
+-1
+Like the new calling option but a ridiculous place to $T$ the button as keep pressing by mistake when trying to send a photo or video !
+put
+-1
+Like the new calling option but a ridiculous place to put the $T$ as keep pressing by mistake when trying to send a photo or video !
+button
+0
+Like the new calling option but a ridiculous place to put the button as $T$ pressing by mistake when trying to send a photo or video !
+keep
+-1
+Like the new calling option but a ridiculous place to put the button as keep $T$ by mistake when trying to send a photo or video !
+pressing
+-1
+Like the new calling option but a ridiculous place to put the button as keep pressing by $T$ when trying to send a photo or video !
+mistake
+-1
+Like the new calling option but a ridiculous place to put the button as keep pressing by mistake when $T$ to send a photo or video !
+trying
+-1
+Like the new calling option but a ridiculous place to put the button as keep pressing by mistake when trying to $T$ a photo or video !
+send
+0
+Like the new calling option but a ridiculous place to put the button as keep pressing by mistake when trying to send a $T$ or video !
+photo
+1
+Like the new calling option but a ridiculous place to put the button as keep pressing by mistake when trying to send a photo or $T$ !
+video
+1
+$T$ dah install whatsapp tapi xpat
+kmk
+-1
+kmk $T$ install whatsapp tapi xpat
+dah
+-1
+kmk dah $T$ whatsapp tapi xpat
+install
+0
+kmk dah install $T$ tapi xpat
+whatsapp
+-1
+kmk dah install whatsapp $T$ xpat
+tapi
+-1
+kmk dah install whatsapp tapi $T$
+xpat
+-1

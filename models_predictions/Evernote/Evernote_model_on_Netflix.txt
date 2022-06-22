@@ -1,0 +1,341 @@
+,
+complete,0.42247832
+video;freeze;close,0.61584586;0.56211925;0.48571828
+,
+log,0.47860044
+Netflix,0.55101717
+selection;movies;shows,0.52758497;0.50472397;0.5180653
+streaming free shows;movies,0.09660116;0.5345704
+see,0.4177599
+watch,0.37249002
+,
+,
+Roku1;watched;screen TV,0.4519864;0.5517631;0.4124536
+,
+,
+checked;internet connection;restarted,0.43303126;0.27894905;0.50994647
+taplet,0.5866781
+,
+arrange;arrange;queue,0.6661647;0.6661647;0.71256626
+user;stream;movie,0.39402983;0.55242664;0.4298408
+,
+keep,0.6387409
+material;streaming,0.42218372;0.5048923
+burn;onto;servers;make,0.51803976;0.47339454;0.5752073;0.479853
+availability;streaming;upgrade,0.41816577;0.44260034;0.44253048
+watch,0.42024842
+,
+shows,0.51908374
+watching;seasons,0.42688006;0.4462376
+keep;updated,0.5865697;0.6347875
+,
+shows,0.46844313
+,
+choices,0.5447024
+streaming,0.57888395
+video;frequent errors,0.5732862;0.1513151
+,
+,
+glitches,0.4940444
+reinstall,0.43860662
+,
+newer movies,0.17820993
+newbies,0.41306785
+join periodically;continuous;build;supply;movies,0.30287308;0.49210092;0.52470046;0.54440224;0.53665185
+homepage that dosent work either,0.02901986
+watch,0.46356872
+,
+watch,0.39950877
+,
+,
+hangs;shut;restart;Kindle,0.46778172;0.4041888;0.61289793;0.42560318
+control;volume,0.56947607;0.6135192
+rewind button,0.3713053
+watching;genres,0.48277858;0.6210632
+choose;documentaries;TV shows;current;movies;biographies,0.44641307;0.5934252;0.17673372;0.44286457;0.5429661;0.62876064
+watch;shows;catch;favorites;interruption,0.5040992;0.5427461;0.5725807;0.6266418;0.45549494
+,
+minutes;jogging,0.44584548;0.50069076
+pause;movie;plays sound;screen,0.56291646;0.48342416;0.25707576;0.6140533
+fix;uninstall;turn;turn;reinstall,0.42895302;0.45217034;0.42108965;0.42108965;0.45058027
+,
+,
+,
+access Netflix content;streaming,0.11245991;0.4469838
+watching;watch,0.44288337;0.44364774
+,
+,
+watch Netflix;Pandigital,0.24818213;0.4388026
+preloaded,0.43910944
+watched;program;Netflix,0.45238;0.44586152;0.5417998
+contol;television,0.47839177;0.41396818
+watch;next program,0.6686629;0.213311
+movies;fingers,0.52392834;0.4667528
+watch,0.5009396
+interms;streaming options;stream;gb/hour;HD,0.43570846;0.22676183;0.489953;0.38317806;0.3841242
+,
+Netflix;submit;movies,0.38788342;0.62128043;0.5429211
+,
+,
+log;logged;crashes;login timeout,0.55173075;0.50704867;0.5043117;0.2952086
+,
+shows update,0.2228791
+reviewers,0.5375306
+,
+watch;watch,0.43555275;0.43555275
+watching movies;subscribe,0.23627967;0.57981044
+,
+,
+,
+add;movies,0.5883498;0.5985626
+see;movies,0.42651772;0.6106885
+tablet,0.4222446
+give;constant error messages;restarts;browser,0.5158954;0.28444445;0.6955023;0.6099005
+,
+catalogue;service,0.5234253;0.388084
+,
+review,0.59814996
+netflix bills,0.22179183
+paying;prices;pay channels,0.47612232;0.52219373;0.23483564
+pick;choose;watch;watch,0.46860853;0.47193983;0.5193151;0.5193151
+,
+signal,0.4678075
+post;review,0.497386;0.5019848
+tips,0.4706855
+Netflix,0.52715176
+,
+wi-fi,0.41440958
+,
+start watching;Kindle;watching;TV,0.26782203;0.46809396;0.5786604;0.4322187
+sound;sync,0.6242262;0.63080376
+,
+updated;tab bar,0.4586362;0.32522038
+video quality;takes,0.29300892;0.5536695
+,
+bring netflix,0.13554947
+videos load;look,0.32518598;0.46563953
+,
+acess;internet;watch;videos,0.44410238;0.51604986;0.53045356;0.60110086
+loaded,0.49901068
+interest;Netflix,0.44750977;0.4092122
+read;next,0.65105337;0.5454701
+,
+,
+,
+keeps,0.5264195
+choose;watch,0.35062477;0.43673772
+,
+tv,0.43048155
+turn,0.37611273
+,
+Netflix,0.42009228
+,
+,
+,
+Scrolling;row;scroll;touch;retrieve info;make;log back,0.44372374;0.43982297;0.46857804;0.4293642;0.26890707;0.37091115;0.39567572
+accepts;password;running,0.56781024;0.66111153;0.49463144
+netflix account,0.12157526
+lines,0.48941487
+watch;embarassed,0.4989832;0.5047274
+,
+,
+content,0.46387327
+updated movies,0.36713344
+,
+message,0.5537526
+watch,0.48210168
+,
+,
+commercials;recognizable,0.44334355;0.39273742
+,
+watch TV shows,0.081853785
+stream movies smoother;modem,0.08139547;0.49251825
+modem,0.64364296
+,
+,
+,
+,
+Netflix;think;Netflix portable,0.45317674;0.41468433;0.20536916
+earphones;WiFi,0.37798113;0.38626894
+watch,0.4567418
+shipping;buy,0.4448655;0.39890093
+movies,0.4600651
+,
+keeps,0.5497923
+loading;picture,0.49035746;0.6005705
+,
+audio;off;video,0.6353864;0.49029493;0.64827013
+seconds,0.49733865
+Picture quality;border staying;screen,0.2708988;0.2778519;0.6109398
+,
+,
+ratings;rate;films,0.35677552;0.43023732;0.3746642
+movies;materials,0.40829724;0.46789074
+deals,0.4382597
+,
+,
+,
+STOP;cable;neflix,0.49886924;0.640451;0.44847843
+selection;stream;ALL my machines,0.4675375;0.5877491;0.10676377
+,
+cable,0.45005324
+,
+,
+,
+,
+shows,0.49875095
+,
+watch;shows;WiFi minor;picture;operator error,0.49675164;0.5554961;0.29525623;0.57306063;0.13925205
+options;pick,0.477488;0.50948083
+,
+trial;credit card,0.47241703;0.4716989
+provide;credit card,0.5508864;0.40086296
+saved;eliminating commercials;browsing;schedule,0.43259582;0.17959428;0.5509099;0.5001026
+check;account,0.65194607;0.67765236
+account;streaming;DVDs,0.55373484;0.54028547;0.565776
+response;Netflix,0.54713476;0.49288222
+watch;shows;buffers,0.4371136;0.4328077;0.53053004
+,
+add;delete streaming movies;shows;list,0.519526;0.17823125;0.6014225;0.6047256
+complaints,0.5986389
+netflix account,0.27418253
+play shows;netflix,0.15161563;0.41634628
+issues,0.40824243
+talk;TV,0.53670156;0.4303822
+,
+instructions;activeate,0.47870585;0.43913132
+,
+series options,0.1828638
+watch;watching,0.4893569;0.51538503
+,
+,
+,
+load;shutting;restarting;fix,0.50546134;0.40603918;0.51543564;0.39386892
+paying;subscription;Netflix,0.50572187;0.5827151;0.5462181
+,
+stream movies;tv shows;watching,0.31100082;0.25060755;0.5574753
+catching;tv shows;watch,0.45637566;0.18932907;0.5351238
+complaints,0.4790825
+buy;rent;movies,0.44480053;0.3819964;0.4163679
+picture;Netflix,0.38182753;0.39637202
+store;put;password;account;download,0.3928778;0.38638687;0.5556855;0.44811755;0.43603134
+,
+,
+catch;watch;shows,0.36638397;0.5047706;0.48881677
+pick,0.45613542
+watch,0.5332079
+,
+watch Netflix,0.27265045
+,
+watch movies;picture,0.18267964;0.49365953
+,
+choose;movies;TV,0.55610526;0.62796825;0.5123791
+pracitical,0.41169238
+watch,0.49027377
+updated;Kindle,0.5648994;0.46202683
+embedded;volume bar;upgrade,0.49304682;0.16981733;0.4005477
+video;audio;choppy,0.5599738;0.6212061;0.5430271
+embedded volume;priority,0.32078573;0.5783536
+releases;blu-ray release;streaming,0.40846747;0.32263404;0.53563493
+stream,0.55728483
+watching;shows;movie/tv,0.4453097;0.4171895;0.37889078
+cable;watching,0.42100897;0.43699953
+,
+,
+TV,0.50306875
+Boob tube;tv,0.22648126;0.46785343
+,
+,
+viewing;content,0.49633932;0.476345
+,
+update;DVD queue,0.6824731;0.4602177
+profile management;parental controls,0.2149256;0.15457177
+,
+interface,0.49886307
+buffer,0.41409594
+,
+put;movies,0.40183926;0.5413507
+movies,0.51188827
+price;show selections,0.438259;0.19608009
+watch;catch;shows;connect,0.44232985;0.46903297;0.53130656;0.46606925
+glitches,0.5645626
+loads;navigate;find,0.40808305;0.5978657;0.4994765
+LG Esteem,0.20385289
+HDMI cable;connect;screen;plug;charger,0.19926485;0.4872188;0.47028747;0.48527643;0.4123849
+data;ripped;streaming,0.5429616;0.40913606;0.4675755
+,
+,
+freeze;load,0.47110686;0.48124066
+,
+interface;adds;continue watching;shows,0.42999095;0.4702887;0.16843337;0.5252032
+unenthusiastic;reading;negative reviews,0.45624077;0.61034256;0.43954197
+,
+minimized,0.40615603
+,
+,
+internet;pay;Netflix,0.46413094;0.40947145;0.3665667
+watch TV,0.3421247
+choose shows;menu;netflix;predict;shows;ratings,0.19043548;0.48655263;0.42440525;0.45992878;0.48659366;0.46905774
+accurate,0.5015343
+shows;Netflix;Id;watch,0.47472015;0.41204172;0.4269957;0.46555972
+shows,0.4700681
+transformer,0.50245154
+scroll;screen,0.67286986;0.65325904
+Watching;blurry;clears,0.45652565;0.60745096;0.50303847
+POS LG,0.2802379
+NetFlix,0.47450936
+watch TV,0.35066587
+bargain-bin On-Demand choices;cable,0.09785422;0.50353444
+,
+,
+,
+sew,0.5677523
+,
+,
+put,0.45734793
+,
+,
+versions,0.46911535
+,
+sync;audio;severe video lag,0.52751625;0.63018906;0.1524737
+pay,0.4867433
+Netflix,0.45198548
+watch,0.40390664
+television,0.44813544
+,
+,
+free choices;TV shows;movies,0.15542418;0.1643709;0.49642038
+keep track;start,0.19234304;0.42594695
+navigate,0.55897087
+find;Amazon,0.44537917;0.44734728
+list;type,0.54239273;0.51366764
+navigate;get;videos;watch,0.48920766;0.352895;0.6231805;0.53653103
+,
+watch;shows,0.5738069;0.5649174
+open;connection error,0.39628962;0.17560348
+checked;apps;delete;reinstall,0.40698653;0.40081844;0.56773514;0.5064252
+,
+,
+,
+HD,0.41838345
+stops;review,0.42391196;0.44754052
+,
+NETFLIX,0.37915727
+WATCH;GET DVDS;INSTANT WATCHING,0.51015484;0.13077964;0.11128322
+SHOWS,0.4156227
+,
+video,0.4311354
+,
+,
+watch;movie;find;Netflix,0.55732954;0.41367233;0.433768;0.49971133
+watch;find,0.487638;0.4024375
+,
+Netflix streaming,0.13080488
+video apps,0.24691375
+audio sync;watching,0.27693763;0.49808228
+fixed,0.481936
+watch subtitled films;notice;01/09/12;Update,0.11165749;0.52143043;0.5066667;0.48643085
+selection;Netflix,0.49993712;0.4216989
+,
+,
+,

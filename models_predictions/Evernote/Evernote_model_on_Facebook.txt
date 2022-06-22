@@ -1,0 +1,327 @@
+accessories;email;reading,0.39826664;0.65083706;0.5689465
+,
+decorated;cover;stickers;crystals,0.49062374;0.6015774;0.67955303;0.5011722
+keep;facebook;travel,0.69899553;0.6951231;0.6687008
+,
+,
+keep,0.52477854
+load;pages;freezes;watch;video;close;look;pictures;news feed,0.47862378;0.55050635;0.5413951;0.46810353;0.54851985;0.4796514;0.3586977;0.617618;0.24342655
+fix,0.55927795
+,
+updated,0.49172804
+type;contains;interest;type,0.5912351;0.45459017;0.44569528;0.5912351
+post;pick;iPhone,0.6575011;0.61694276;0.4314721
+glitches;update,0.44718537;0.46717587
+log;reccomend,0.45284292;0.5877533
+check;from;Kindle takes,0.6350577;0.45782778;0.25906953
+features,0.5587282
+,
+tweaks,0.5535033
+login;screen,0.5566682;0.5888601
+attacking;update,0.35318136;0.4937006
+,
+commands;page freezes;return,0.45591813;0.14639033;0.45849845
+keep;friends;stay,0.5646274;0.42257243;0.4022837
+addicting,0.39181843
+responding;continue,0.3925271;0.47619006
+Cruising;open,0.39087662;0.4381955
+posts;FB/kindle gridlock,0.5746561;0.18871821
+Opens;silk,0.46891594;0.47952756
+sending;message;Icon;sending images;pics;stickers;send,0.40811113;0.4643526;0.36007956;0.16655469;0.4655847;0.4599901;0.3743781
+reading,0.48432288
+pictures;picture taking;developing;phones hold;pictures,0.50301945;0.23346417;0.40511963;0.20856966;0.50301945
+logs;stable,0.5245342;0.43010288
+,
+pictures;appear;my timeline take up;entire screen;automatically sized down,0.6956239;0.6545465;0.12271336;0.38674912;0.2097502
+recover,0.43862718
+photos;take;entire screen;fix;freezing,0.6318148;0.51561606;0.15142274;0.46713185;0.4717282
+,
+show;jewelry;timeline;page,0.44939005;0.60468644;0.59788907;0.49609816
+,
+release;loaded,0.3734948;0.39937654
+negative,0.40722358
+update,0.52026427
+open,0.552573
+deleted;pop;reinstalled,0.5697224;0.51979774;0.6023883
+update,0.4946945
+,
+keeps glitching,0.28703392
+get;facebook;facebook,0.3886406;0.53368145;0.53368145
+,
+privacy sttings,0.2703145
+,
+facebook,0.5811554
+,
+check;FB,0.63357264;0.4607756
+Plus;get messages instantly,0.40704507;0.25717548
+posts;rest;load;blue text;pictures;change;refresh,0.60373276;0.50862783;0.5596186;0.30856532;0.6533828;0.5279646;0.57815504
+news feed;groups;pages,0.48606074;0.7014148;0.6917518
+posts;show;show,0.535322;0.45701778;0.45701778
+searching new posts;recent,0.20640883;0.5593333
+,
+update;find;profile;settings,0.6152434;0.48210368;0.68258893;0.6362024
+,
+gossip,0.57940996
+,
+keeping,0.63497865
+malfunctions,0.5445817
+update,0.48109302
+pictures;features,0.49928552;0.4994269
+,
+news feed;load;events;check facebook,0.27542305;0.5482492;0.5331692;0.36792558
+keep;pictures;recipes,0.3800826;0.66226953;0.44760498
+download;password;contact,0.4338686;0.51584363;0.4498982
+send voice messages,0.24129541
+instructions,0.6329138
+find FaceBook;Dummies,0.2172853;0.51814157
+,
+Kindle,0.41052186
+,
+smooth;runs,0.5132643;0.47101226
+kindle;laptop,0.48068038;0.46405822
+Kindle;purse,0.5133372;0.6481547
+,
+download,0.50977945
+,
+install,0.5609401
+Keeps showing;install,0.15990718;0.5104562
+access Facebook,0.43641672
+Facebook;Kindle,0.42056462;0.41360572
+,
+options,0.37612912
+retains;features;event info;news feed stories;photo;viewing;videos,0.5807472;0.50752723;0.20039704;0.15667494;0.54693466;0.6164688;0.51239556
+,
+layout;application;applkication posts hidden;viewed,0.59035265;0.4162609;0.26965785;0.5343783
+rating;hide posts;newsfeed,0.3856415;0.39873046;0.6684313
+Add,0.39793503
+,
+,
+put;kindle,0.44820097;0.49634567
+Defintely;downloading,0.45730525;0.6113547
+layout;see notifications,0.5306594;0.30283874
+get;profile;events;friends,0.4055455;0.66838896;0.6761579;0.4368659
+get;messages,0.6585144;0.80037713
+update,0.6218757
+FIX,0.4731862
+pictures,0.50566405
+highlight;copy;paste,0.5374571;0.56095856;0.5924677
+,
+access;latest;news feed entries,0.6807214;0.7274401;0.39804977
+,
+,
+fix,0.5289196
+loads;posts;news feed,0.5873023;0.68845344;0.38195026
+,
+larger-screened;fix,0.39382684;0.39162517
+,
+connect;keep,0.4307468;0.43696073
+,
+,
+reccomend,0.66426975
+get;Facebook,0.47178116;0.6458401
+,
+,
+,
+,
+load,0.60567486
+,
+,
+,
+,
+talk;grandkids,0.48241886;0.55580324
+fix,0.40285608
+,
+stalking,0.40154317
+thoughts;sharing;associate;post;links;Fotopedia,0.3872998;0.5153523;0.5239534;0.5869079;0.6165431;0.49738318
+stay;contact;friends,0.45498976;0.60261905;0.46340027
+put;view points;daily word;Face book,0.48402074;0.46116504;0.33148766;0.32638067
+view pictures;family;friends,0.35819122;0.57384276;0.5544339
+,
+Facebook,0.5900229
+,
+posts loading,0.43173862
+freeze,0.5087866
+,
+keeps reinstalling;fix,0.15499458;0.39920142
+life;check;Facebook daily,0.48647654;0.7408296;0.50869197
+,
+connected,0.39591092
+,
+figure,0.555818
+conquering;learning curve,0.5209627;0.20815279
+facebook,0.6057485
+,
+trivia,0.5170887
+check;lives,0.68773186;0.64051914
+posts;spinning circle;bottom;screen,0.6462036;0.30759174;0.51392555;0.61414176
+,
+watching;friends,0.51291806;0.50155085
+Facebook,0.3987203
+included;quasi private emails,0.45973998;0.12098204
+,
+,
+adjust news feed;stories,0.12188921;0.49061397
+mark notifications;read,0.4817133;0.70817274
+see entire photo album from news feed,0.07685958
+Missing functionality;messaging;events,0.18153359;0.58374345;0.5767334
+update;updates,0.62588215;0.65281075
+browser,0.43365884
+Facebook;Facebook,0.45534003;0.45534003
+,
+stay,0.38482526
+see;handful;posts;handful listed underneath;shaded boxes;access,0.45865846;0.45804498;0.72417617;0.14454964;0.41781375;0.5763503
+boxes;scroll;stops,0.62898517;0.68860286;0.6079595
+access,0.51955116
+,
+fixing,0.49686655
+Save;access Facebook through;browser,0.4207032;0.24252246;0.56624955
+newsfeed;shows;posts;blocks;click,0.48020577;0.6054572;0.6599624;0.59915715;0.57296956
+Id,0.39144805
+fixed;update,0.5172205;0.61017716
+loads;downloaded;update,0.5303316;0.61743057;0.656185
+access;Facebook;communicate;friends,0.60500884;0.5402649;0.63349223;0.53525287
+eyesight;facebook,0.58371747;0.55198246
+keeps changing;frustrates,0.19443488;0.48578236
+get;Facebook session running;error loading story;message,0.42305642;0.12657295;0.22149289;0.6110524
+,
+create,0.44885212
+,
+,
+quality,0.35303003
+,
+Updated version;open,0.23456377;0.5707798
+,
+,
+phone,0.42754835
+download;pics look;HD,0.62708557;0.24627915;0.4441005
+Facebook,0.46661913
+,
+,
+news feed;peoples time lines;load,0.3439537;0.109714374;0.6349914
+FIX,0.57193667
+spread,0.4795676
+fix,0.47542027
+updates,0.5395299
+developers,0.45102957
+keep;friends,0.6945294;0.5907403
+keep;political views,0.59144026;0.17806207
+information,0.5662142
+,
+look/feel,0.4501771
+download,0.5507711
+apply;tester,0.38757166;0.42209673
+graphics,0.43285754
+get,0.4007787
+facebook,0.35765034
+downloading,0.54056895
+,
+,
+jumps;top;posting;give;friends complete list,0.57620186;0.47647277;0.6501984;0.5790127;0.2608971
+check,0.6120953
+,
+Facebook,0.41393426
+,
+facebook;follow;grandchildren;facebook;friends,0.5289363;0.5950299;0.49154156;0.5289363;0.43212992
+,
+look;post;showed;posts,0.6437052;0.7584584;0.6803477;0.77276325
+connect,0.45651016
+,
+check,0.59202415
+,
+fix;facebook,0.47921935;0.433894
+sign;sits;loading;click;tab;top;loads;messages,0.59773916;0.40320364;0.5493851;0.631432;0.6539757;0.47745118;0.6074554;0.7092928
+read;gossip;shares,0.6473656;0.74475753;0.6982782
+pictures;friends;family;shared,0.70069414;0.54522485;0.5117389;0.6371628
+share,0.34082067
+HD,0.46230462
+posted;link;click;page;Facebook;hitting,0.48279765;0.5114061;0.5315729;0.4562721;0.38712695;0.35913748
+,
+stay;friends,0.40140998;0.43968096
+communicate,0.5725612
+updated,0.4751605
+quot;Facebook;quot;open,0.42911768;0.48491004;0.42911768;0.4830427
+complaint,0.3984371
+words;post my review,0.73035425;0.25990912
+post photos;facebook;facebooks;uploading,0.42764705;0.6213462;0.6809567;0.58044595
+browser;support;process facebook,0.36909273;0.43828818;0.16116223
+upload;download;pic;post;kindle gallery;select;pic;hit menu;hit share;choose;facebook,0.54601526;0.5023571;0.5171476;0.5061727;0.12904553;0.54883605;0.5171476;0.24511315;0.24511315;0.50296354;0.40953213
+view family;friends;pictures;interests,0.2834518;0.49202412;0.65936273;0.51862466
+,
+connected;personal,0.43232957;0.5049558
+,
+,
+,
+Facebook;facebook,0.53862786;0.53862786
+versions,0.44227418
+,
+,
+,
+keep changing;look;page;consent,0.43293506;0.60534596;0.7124698;0.6414134
+Post;show,0.4081845;0.52247137
+money;checking account,0.5686726;0.45118722
+checked;put,0.5375975;0.40386453
+scammers;hijacked accounts,0.5783102;0.36509588
+promote,0.61041987
+,
+access;Facebook;play;Facebook games,0.5373502;0.43723223;0.43286255;0.19117202
+connected,0.39218435
+e-reader/tablet,0.5127297
+alert;get;alerts;comments;messages,0.51862663;0.409451;0.59845525;0.625197;0.6166165
+,
+,
+watch;video;seconds,0.5803256;0.66385067;0.53863287
+close,0.4491242
+update,0.5151029
+load;desktop,0.44140792;0.42997733
+Search incomplete;complicated,0.30418062;0.41034564
+background takes,0.3048391
+facebook,0.55975586
+status;scroll,0.55758554;0.57329065
+web;looking;FB,0.6556169;0.45377985;0.5921074
+post,0.6961891
+read,0.5333266
+,
+collecting;analyzing usage;make,0.4812896;0.27106205;0.54311496
+features;contained,0.42617056;0.44135982
+,
+uploading phptps;facebook page from;gallery,0.419805;0.30486488;0.6285637
+stay logged;notifacations,0.22414903;0.6954736
+dislike button,0.15209383
+rating,0.55601704
+social media sites,0.16571711
+downloaded;open;closes,0.5445998;0.519819;0.53797644
+,
+,
+staying;loop,0.39628443;0.53640896
+friends,0.460658
+download;print posted photos,0.5182794;0.22815326
+,
+FACEBOOK,0.40119144
+keep;grandkids,0.6370892;0.61516875
+hanging,0.46075684
+hook;accounts,0.5386987;0.65418446
+install,0.53456265
+hook;family;friends,0.56214607;0.44204992;0.50325465
+keeping,0.6985158
+games,0.4366057
+aggrevating,0.5160232
+block,0.5379736
+explicit;negative;explicit,0.5730625;0.58353823;0.5730625
+open Facebook,0.36753348
+loads;shuts off,0.4390716;0.3114199
+uninstalled;keeps reinstalling,0.47019416;0.2715904
+,
+Fixing,0.4675096
+,
+talk,0.46567944
+recent update;view your timeline;Top Stories format,0.14447448;0.14240487;0.2727215
+view your timeline;Recent order,0.25268778;0.4195777
+,
+pulling;Facebook;Silk web browser,0.57010585;0.56922835;0.12714441
+dumping,0.46162972
+HDX,0.55334073
+switch;recent;Top stories,0.5941869;0.52741015;0.3162265
+notification center,0.35595238
+groups;favorites,0.724636;0.70615226
+,
+,

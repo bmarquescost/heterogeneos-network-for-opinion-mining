@@ -1,0 +1,169 @@
+conect,0.54756886
+,
+web version available,0.06879737
+theme,0.39279497
+add;theme,0.49376422;0.5888625
+store version,0.2699755
+Calling feature;phone moto,0.26761237;0.19905695
+Keeps;connected,0.6201075;0.60550195
+Updated;get voice calling option,0.47929487;0.11919544
+friends;make;voice call facility,0.4192779;0.5857427;0.3614284
+,
+,
+Make;movable;sd card,0.4731065;0.58494854;0.29512492
+,
+,
+updated;provide;video calling;comments features,0.49321362;0.4384581;0.35004255;0.41152668
+,
+,
+,
+force crashes;messages;sent,0.17065784;0.6530342;0.598295
+update;status;change;dp,0.7077304;0.75554013;0.6449505;0.629911
+,
+,
+Animated gifs,0.28921917
+Video;material,0.42189807;0.42881954
+login;log;feature;security;password,0.5417648;0.5485972;0.4533573;0.504374;0.52880466
+respond,0.56231743
+,
+Improve Stickers,0.130847
+Conect;friends,0.5805783;0.5281672
+texting;free,0.65814686;0.53103554
+,
+,
+connect;friends,0.6284342;0.5163275
+,
+CATCH,0.51627064
+download,0.46141878
+hos sending voice messages songs videos;pictures,0.111314505;0.68681765
+Snapchat Facebook,0.17010629
+media saves,0.15659173
+resolved,0.46343416
+inccorrect,0.69903356
+installation,0.5360134
+updated;kept prompting,0.47538885;0.18180883
+download;errors,0.55425805;0.6135071
+respond;box;saysits;responding;close,0.55072665;0.66277176;0.47411013;0.46898776;0.4263424
+select;chat;chat grps,0.5214796;0.629618;0.3964188
+read our reviews,0.22666883
+whataapp;update,0.39794225;0.68424374
+,
+numbers,0.7069194
+showing,0.5163694
+,
+innovation,0.4325541
+,
+,
+Suits;fulfills;work,0.46496528;0.55702084;0.4733245
+,
+,
+uninstall;reinstall,0.48695582;0.535312
+aapp;chatting,0.42445707;0.6028979
+send;multiple,0.5870978;0.46341324
+,
+Voice messaging;access voice message screen,0.38873962;0.24574085
+listen;ear;pls pls fix sending updates;pls fix,0.44498256;0.38992465;0.019764656;0.17150672
+,
+get access;my profile,0.4822888;0.39815414
+,
+get messages;pic,0.2703581;0.61132485
+,
+fix;reinstall,0.4810477;0.5865848
+,
+,
+Calling voice;clear,0.49268153;0.688254
+downloading;conveying,0.40470853;0.38815755
+stars;download,0.42509127;0.4788678
+updating,0.57475483
+view profile picture;lags;full picture;displayed;scrolling down,0.21281731;0.59302914;0.26888785;0.5479822;0.34381488
+smooth;update,0.48927626;0.63552785
+upload;caling;pls solve,0.5033329;0.61850077;0.32974613
+open;others profile pics ! ! ! !,0.59129894;0.014821792
+wats,0.44327188
+Messaging;Images Sharing,0.5369688;0.41627482
+,
+mi4i,0.520833
+error 927 pls resolve issue,0.10931014
+,
+Update;deduct;stars,0.48289892;0.60292864;0.5986766
+archives;messages;disappeared,0.7474917;0.7901658;0.64211863
+sentimental keepsakes,0.28145978
+,
+reinstalling;register,0.5085721;0.6202765
+Shows connection error;wifi,0.15044244;0.6550904
+sort;asap,0.58344257;0.5580331
+Calling;actived,0.5670361;0.57874423
+,
+,
+msj;col video;friends;family,0.5080539;0.43439788;0.57242423;0.42664662
+,
+inputs,0.5880549
+apss,0.44044125
+update;latest version,0.68231;0.32056504
+group;friends,0.6652268;0.52948034
+,
+create;redownload;update,0.4738686;0.5118859;0.4839849
+functions,0.45229536
+shows;notifications;theyve;read,0.5889342;0.74349135;0.5074246;0.670059
+,
+,
+call system,0.33811486
+download;keeps;download;error,0.5056114;0.49959007;0.5056114;0.58813137
+,
+calling,0.4359039
+update;hangs alot,0.5280659;0.3580513
+,
+,
+,
+,
+,
+Fix;send some pdf file,0.6034587;0.17175677
+hangs,0.42085356
+download;SMS Plan;temporary;download WhatsApp,0.57633686;0.38937995;0.4968549;0.33216417
+calling,0.52348495
+,
+expand;chat list,0.6352322;0.46648008
+show;lines;information;line1;name;line2;last message,0.6015927;0.72405374;0.709033;0.6775966;0.6000586;0.6760504;0.23668498
+make;lines;information;line1;name;line2;persons status;line3;message,0.5779971;0.7590389;0.72368586;0.64147794;0.5388464;0.6497384;0.20259152;0.6318763;0.68458474
+,
+,
+chatting,0.4957948
+,
+updated,0.63790447
+update,0.66066986
+notifications properly,0.6045259
+,
+,
+keeps,0.37621012
+stars,0.50874
+Permission;downloading media;downloading,0.43449134;0.3827887;0.6186992
+files;transferred;mb,0.61340386;0.59785044;0.38313884
+,
+installing,0.5343142
+prefix;dial;phone number;inter;call,0.6636948;0.69377583;0.18307544;0.5348768;0.5845474
+contact,0.44921032
+add stickers;hike,0.19837612;0.5076675
+,
+,
+,
+update,0.5827751
+saves,0.43671915
+update,0.6446124
+calling system,0.30108148
+update;updated;voice calls,0.49078643;0.47533625;0.330501
+RATE,0.41043806
+,
+install,0.54468143
+,
+launch Beta version,0.066030815
+launch downloading whatsapp;memory card,0.24412732;0.42175055
+Packers;Movers,0.41473547;0.47574437
+call,0.40753803
+chat block;talk,0.33957896;0.608786
+Plz download;fast,0.21905069;0.5101642
+,
+put;button;keep pressing;mistake;send;photo;video,0.4002624;0.50057495;0.27914968;0.39196354;0.59342635;0.62689286;0.6041239
+repositioning ASAP,0.30260164
+,
+install;xpat,0.5470434;0.46398658
+,

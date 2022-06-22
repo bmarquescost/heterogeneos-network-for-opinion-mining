@@ -1,0 +1,294 @@
+checking;purchased items,0.67916805;0.4264122
+move;search,0.44317558;0.5763084
+buy;online;post items;sale;keep;eye;watch list,0.5517155;0.46944764;0.24651413;0.39436314;0.48128715;0.39029038;0.22082868
+,
+,
+keeps;user name;password,0.5896737;0.22854288;0.66166437
+select;pay,0.55423045;0.40773097
+updates;notifications,0.5436291;0.676751
+individual notification type;off;general notification toggle;off,0.28595808;0.59518224;0.15356703;0.59518224
+displays;brief popup;updating;settings,0.5718189;0.4137069;0.61395055;0.61068034
+,
+downloaded;ebay;specific items,0.3605211;0.3685183;0.25919545
+intuitive,0.385734
+check;desktop,0.59235936;0.4482928
+viewing;bidding,0.49313214;0.47241122
+closing;bid;keep,0.50752854;0.472943;0.5413242
+bid;buy;get notified,0.5436436;0.52266765;0.13959762
+Ebay;access,0.46418843;0.5682299
+,
+installed;Kindle,0.55031466;0.44255987
+EBay,0.43157002
+Ebay,0.47343984
+,
+,
+,
+bid,0.440503
+shopping;Ebay,0.5059617;0.4779328
+shop,0.44577593
+,
+viewing;bidding,0.49313214;0.47241122
+glitches,0.6042631
+check;items,0.52940595;0.58677053
+check ebay messages,0.29745615
+,
+shop ebay;turn,0.28590828;0.4506095
+w/o;Kindle;access;ebay,0.5393793;0.40111497;0.57985395;0.46170276
+,
+shopping;selling;kindle,0.51038724;0.53124875;0.42994043
+find;find;gifts,0.46524605;0.46524605;0.4908418
+,
+downloaded;bid;items,0.36053002;0.5380036;0.56246114
+downloaded,0.5484054
+open;automatically close;error message,0.4325392;0.21714883;0.4444238
+navagation;browsing tools,0.47089392;0.31526092
+list;activity;ebay;see;manage;move from;main search list,0.5960954;0.52801824;0.46179348;0.40949962;0.49192107;0.21412754;0.16865222
+,
+bids;finding special items,0.5592348;0.10694184
+,
+dealing;ebay;transactions,0.45894903;0.4727834;0.66398793
+,
+shopping,0.40249678
+,
+,
+items;sell listed;importing pictures;download,0.5086476;0.21356316;0.37203842;0.5481515
+Loaded,0.47890985
+,
+,
+Log;easy;search easy,0.52835643;0.36259502;0.34539104
+web browser,0.21161309
+,
+Bucks,0.3731025
+stay informed;posting;ebay,0.18436253;0.65952396;0.5018453
+enter;search criteria;sends;update;posts,0.678254;0.45117393;0.68432933;0.70630395;0.7039056
+shop;ebay,0.57306945;0.54194105
+Kindle,0.47371998
+shopping,0.5060112
+,
+,
+,
+devise,0.565055
+,
+manage;ebay listing;glance,0.6073632;0.41454232;0.5973021
+computer;list;items,0.5281093;0.7024314;0.6968561
+buy;buy;enternet;buy,0.45723435;0.45723435;0.4674973;0.45723435
+,
+,
+,
+,
+,
+,
+auction;bid;follow progress;sale,0.56496793;0.59068096;0.28513804;0.5636178
+,
+buy;print;WiFi printer,0.42697817;0.46333992;0.11984007
+Ebay account;get,0.27466646;0.49097067
+bid,0.60452235
+,
+,
+,
+eBay,0.45420152
+log into;application;view;monitor bids;create;bids,0.30138224;0.44805157;0.5079476;0.24442269;0.5057897;0.5653951
+perform;sales;check;monitor bids,0.3874194;0.52409565;0.5290081;0.2721178
+,
+,
+,
+sellers,0.4306619
+,
+ebay;auctions;browse;category,0.5314126;0.61677307;0.59862244;0.58044463
+purchasing items,0.3753002
+search;deals,0.5067019;0.5183667
+,
+filters;downloaded,0.5096292;0.6228309
+ebay;scan;play;finger tips,0.5208795;0.5812295;0.45692393;0.3143208
+get,0.46343473
+,
+surpising,0.5377969
+ebay,0.35244802
+syncs;monitor,0.3958454;0.40437737
+,
+navigate through;different pages;selling;sold;payments,0.26558444;0.23074493;0.4793744;0.34993032;0.5464173
+buy,0.46530887
+create;account;make tweak,0.5415492;0.54535097;0.27398983
+,
+features;eBay web site,0.40185353;0.06974686
+check;ebay listings;WiFi,0.6128906;0.39794588;0.54777414
+reminders;loads;memory,0.49708626;0.46149132;0.54103863
+browse thru EBAY;sellers;watch list,0.11387162;0.5546371;0.22906785
+logging,0.47289145
+Notifications;helpful;apps,0.5562937;0.40831178;0.556026
+navigate;loads,0.4919122;0.5742347
+searching;bidding,0.5044177;0.56140834
+searching;items,0.54343057;0.55305433
+installing;failures,0.5538693;0.41346598
+,
+link;full site,0.58603656;0.17400469
+,
+Understated version;websight,0.24799699;0.55151063
+version,0.41896752
+issues,0.49340975
+thorough;website,0.49169472;0.39677143
+ebay;snap,0.42072037;0.4981858
+ebay,0.4473183
+format,0.4357561
+computer,0.4147554
+format,0.548868
+,
+drop downs,0.2249593
+list;item;buy;check listings,0.63165647;0.60675615;0.5220844;0.31893802
+navigate,0.48559675
+opening;browser window,0.54123217;0.30572498
+,
+Gets;items listed fast;easy,0.58560646;0.3731178;0.44120497
+,
+,
+navigate,0.5094288
+,
+connect;ebay;tap;finger,0.5386878;0.5355687;0.55613565;0.45197904
+check;ebay bids;kindle,0.6095816;0.45676246;0.45168018
+addressing;resubmits auctions;prices,0.45018032;0.30014473;0.5643741
+daily;check;auctions,0.47915846;0.66344583;0.7351681
+,
+frequent buying;selling,0.14329234;0.5194686
+notifications,0.7854665
+Browsing;update,0.3935767;0.5018368
+choose,0.42480275
+bidding;ebay,0.5144612;0.45019665
+shop;wifi,0.4772528;0.5156272
+,
+website,0.557779
+shop,0.53887904
+,
+,
+check;ebay,0.6351435;0.6647718
+keep track;your bids,0.31913853;0.25481975
+favorite sites,0.17249472
+frequenting,0.56639755
+paypal account;buy,0.3713718;0.5052468
+,
+,
+ratings,0.6366262
+,
+,
+ebay,0.35913193
+online,0.4258948
+website,0.47766116
+,
+,
+watching auctions;keeping track,0.29965994;0.39633265
+buy;results;searches,0.49037942;0.505199;0.5420051
+,
+fix,0.50958383
+find;switching,0.39142367;0.6380159
+,
+keep;bidding,0.58691245;0.63152564
+,
+check;item,0.51045406;0.45034096
+,
+eBay,0.3980238
+buy;payment;purchase,0.5275649;0.48413247;0.5582041
+Paypal,0.43750778
+,
+downloaded;altered;eBay,0.46326074;0.4453511;0.3642739
+,
+navigate;keep track;bids,0.5141071;0.2740157;0.57466596
+Requred;ebay store;download,0.5230462;0.24183339;0.5288102
+,
+laid;find;track items;purchased,0.44246608;0.52071244;0.42605582;0.5334197
+alerts;sent;items ordered;paid,0.6989905;0.6172359;0.40271026;0.4146212
+items;completing;transaction,0.56185967;0.5454316;0.54932845
+,
+,
+compare prices;Amazon,0.27052268;0.39197496
+shipping;prices,0.39663154;0.41820636
+check EBay,0.28258803
+selection;item,0.46726623;0.41425925
+,
+,
+impression,0.6114593
+,
+shopping,0.4527782
+shop;ebay;get,0.37812617;0.47017244;0.36051622
+,
+,
+ebay,0.3892723
+list items;sell,0.43259314;0.6413391
+,
+tail;assembly;ebay;surfing,0.5127784;0.59520435;0.55011266;0.5717367
+,
+,
+,
+features,0.47255185
+ebay,0.46738485
+send;shop,0.45313787;0.4438108
+,
+,
+,
+LOOK;EBAY,0.35942852;0.45309734
+SCREEN,0.46919227
+KINDLE,0.5380358
+,
+smoothly,0.45360884
+shopping;ebay;keeps,0.40553463;0.40988418;0.48765197
+downloaded;kindle,0.5458005;0.38646504
+shopping,0.40929204
+interface;browsing items;eBay;users;login access;personal profile;items,0.5281505;0.23476103;0.4391602;0.44894543;0.26264495;0.28809136;0.4782844
+,
+desktop/laptop,0.60712814
+search,0.53974354
+,
+check auctions;find,0.36381063;0.4078215
+deals;filtered;list;scroll,0.50134176;0.51114225;0.55114114;0.6202163
+keep track;purchases;watched items;connects;PayPal,0.3100347;0.48054332;0.16382822;0.50562304;0.40288767
+keep track;purchases made,0.31855902;0.42237368
+download;search engines,0.45415848;0.35016295
+,
+view;check;auctions,0.55881023;0.65186787;0.715864
+selection arrangement,0.32176512
+,
+revise;review;product,0.67508465;0.64743596;0.409033
+items;list;search,0.6841959;0.69721466;0.67408246
+,
+glitchy;shipping prices;reflected correctly,0.3782557;0.2580298;0.31384218
+,
+buy;sell;ebay,0.48927915;0.48044786;0.38913098
+,
+,
+select;install;Puts e-bay,0.633316;0.5944231;0.34942025
+accessing;account,0.6457887;0.6572776
+download;install,0.49801114;0.51124257
+,
+glitch,0.6218608
+,
+important features;classic site,0.20949833;0.2372906
+debugged,0.53139836
+,
+Id;eBay,0.5518778;0.46973798
+,
+checking;searching,0.57185584;0.56454486
+Title,0.5061175
+Text;unreadable,0.47404605;0.47908294
+,
+,
+handles;searches;remembers;viewed;each search list,0.5607725;0.61464214;0.61974025;0.60257757;0.11415044
+navigate eBay;Kindle;HD,0.3852816;0.40798253;0.41379085
+enlarge item photos;further zoom;see;detail,0.17591558;0.21335703;0.58140564;0.6449528
+,
+peruse Ebay,0.2579468
+webpage,0.64506817
+updates;connect,0.558825;0.4820602
+contacted eBay,0.2102263
+fix,0.41426453
+,
+,
+deals;find;break,0.6040105;0.44716528;0.517457
+sell prints;eBay;objects;get immediate notifications;sells;buyer/potential,0.13303106;0.4048889;0.39481124;0.08652619;0.465325;0.43230456
+sorting,0.5620297
+mobile site,0.15889734
+,
+take;business,0.44135886;0.42768002
+access;business,0.61260575;0.46144065
+,
+notifies;item;outbid;item,0.4473098;0.49793255;0.5211607;0.49793255
+ebay,0.40559208
+organized,0.45730615
+self-explanatory,0.66297835
